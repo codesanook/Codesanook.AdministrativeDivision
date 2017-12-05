@@ -72,6 +72,12 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Migrations.cs" />
+    <Compile Include="Services\AdministrativeDivisionService.cs" />
+    <Compile Include="Services\IAdministrativeDivisionService.cs" />
+    <Compile Include="Models\DistrictRecord.cs" />
+    <Compile Include="Models\ProvinceRecord.cs" />
+    <Compile Include="Models\SubdistrictRecord.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -96,8 +102,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
-    <Folder Include="Models\" />
     <Folder Include="Views\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="README.md" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
