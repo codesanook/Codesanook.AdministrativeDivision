@@ -1,0 +1,10 @@
+﻿Name: CodeSanook.AdministrativeDivision
+AntiForgery: enabled
+Author: codesanook.com
+Website: http://codesanook.com
+Version: 1.0
+OrchardVersion: 1.0
+Description: Thailand Administrative Division
+Features:
+    CodeSanook.AdministrativeDivision:
+        Description:  Thailand Administrative Division
