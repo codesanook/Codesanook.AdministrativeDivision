@@ -1,0 +1,72 @@
+try{
+	
+	var sources = Provinces.OrderBy(s => s.Id)
+	.ToList()
+	.Select(s => new CodeSanook_AdministrativeDivision_ProvinceRecord(){
+	Id = s.Id, Code = s.Code, NameInThai = s.NameInThai, NameInEnglish = s.NameInEnglish
+	});
+	
+	CodeSanook_AdministrativeDivision_ProvinceRecords.InsertAllOnSubmit(sources);
+	
+	
+	SubmitChanges();
+	
+}catch(Exception  ex){
+ex.Dump();	
+	
+}
+
+
+try
+{
+
+	var sources = Districts.OrderBy(s => s.Id)
+	.ToList()
+	.Select(s => new CodeSanook_AdministrativeDivision_DistrictRecord()
+	{
+		Id = s.Id,
+		Code = s.Code,
+		NameInThai = s.NameInThai,
+		NameInEnglish = s.NameInEnglish,
+		ProvinceRecord_Id = s.ProvinceId
+	});
+
+	CodeSanook_AdministrativeDivision_DistrictRecords.InsertAllOnSubmit(sources);
+
+
+	SubmitChanges();
+
+}
+catch (Exception ex)
+{
+	ex.Dump();
+
+}
+
+
+try
+{
+
+	var sources = Subdistricts.OrderBy(s => s.Id)
+	.ToList()
+	.Select(s => new CodeSanook_AdministrativeDivision_SubdistrictRecord()
+	{
+		Id = s.Id,
+		Code = s.Code,
+		NameInThai = s.NameInThai,
+		NameInEnglish = s.NameInEnglish,
+		Latitude = s.Latitude,
+		Longitude = s.Longitude,
+		District_Id = s.DistrictId,
+		ZipCode = s.ZipCode
+	});
+
+	CodeSanook_AdministrativeDivision_SubdistrictRecords.InsertAllOnSubmit(sources);
+	SubmitChanges();
+
+}
+catch (Exception ex)
+{
+	ex.Dump();
+
+}
