@@ -13,7 +13,6 @@ using System.IO;
 using System.Data.SqlClient;
 using Microsoft.SqlServer.Management.Smo;
 using Microsoft.SqlServer.Management.Common;
-using Orchard;
 using Orchard.Environment.Configuration;
 using System.Linq;
 using System.Web.Hosting;
@@ -24,22 +23,18 @@ namespace CodeSanook.AdministrativeDivision
     public class Migrations : DataMigrationImpl
     {
         private readonly ITransactionManager transactionManager;
-        private readonly IOrchardServices orchardService;
         private readonly IShellSettingsManager shellSettingsManager;
 
         public Migrations(
             ITransactionManager transactionManager,
-            IOrchardServices orchardService,
             IShellSettingsManager shellSettingsManager)
         {
             this.transactionManager = transactionManager;
-            this.orchardService = orchardService;
             this.shellSettingsManager = shellSettingsManager;
         }
 
         public int Create()
         {
-
             SchemaBuilder.CreateTable(typeof(ProvinceRecord).Name, table =>
                 table
                     .Column<int>("Id", column => column.PrimaryKey().Identity())
@@ -70,7 +65,6 @@ namespace CodeSanook.AdministrativeDivision
             );
 
             //TODO add indexes and foreign keys
-
             return 1;
         }
 
@@ -82,20 +76,15 @@ namespace CodeSanook.AdministrativeDivision
             {
                 var connectionString = GetConnectionString();
                 var connection = new SqlConnection(connectionString);
-                //var session = transactionManager.GetSession();
-                //var connection = (SqlConnection)session.Connection;
-
-
                 var server = new Server(new ServerConnection(connection));
                 var script = GetAdminstrativeDivisionDataScript();
 
                 connectionContext = server.ConnectionContext;
-                //connectionContext.StatementTimeout = 60;
                 connectionContext.BeginTransaction();
                 connectionContext.ExecuteNonQuery(script);
                 connectionContext.CommitTransaction();
             }
-            catch (Exception ex)
+            catch
             {
                 //roll back if insert fail
                 if (connectionContext != null && connectionContext.IsOpen)
@@ -112,7 +101,7 @@ namespace CodeSanook.AdministrativeDivision
         private string GetConnectionString()
         {
             var settings = shellSettingsManager.LoadSettings();
-            var defaultSetting = settings.Where(setting => setting.Name == "Default").Single(); ;
+            var defaultSetting = settings.Where(setting => setting.Name == "Default").Single();
             var connectionString = defaultSetting.DataConnectionString;
             return connectionString;
         }
@@ -124,10 +113,8 @@ namespace CodeSanook.AdministrativeDivision
                 this.GetType().Assembly.GetName().Name,
                 "Contents",
                 "AdministrativeDivisionData.sql");
-            var httpContext = orchardService.WorkContext.HttpContext;
 
-            var scriptPath = //httpContext.Request.MapPath(scriptUrl);
-            HostingEnvironment.MapPath(scriptUrl);
+            var scriptPath = HostingEnvironment.MapPath(scriptUrl);
             return File.ReadAllText(scriptPath);
         }
 
