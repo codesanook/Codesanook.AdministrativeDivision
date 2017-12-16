@@ -1,22 +1,15 @@
 using System;
-using System.Collections.Generic;
 using System.Data;
-using Orchard.ContentManagement.Drivers;
-using Orchard.ContentManagement.MetaData;
-using Orchard.ContentManagement.MetaData.Builders;
-using Orchard.Core.Contents.Extensions;
 using Orchard.Data.Migration;
 using CodeSanook.AdministrativeDivision.Models;
 using Orchard.Data;
 using Flurl;
 using System.IO;
-using System.Data.SqlClient;
-using Microsoft.SqlServer.Management.Smo;
-using Microsoft.SqlServer.Management.Common;
 using Orchard.Environment.Configuration;
 using System.Linq;
 using System.Web.Hosting;
 using System.Reflection;
+using System.Text;
 
 namespace CodeSanook.AdministrativeDivision
 {
@@ -70,29 +63,25 @@ namespace CodeSanook.AdministrativeDivision
 
         public int UpdateFrom1()
         {
-            //insert administrative division data
-            ServerConnection connectionContext = null;
-            try
-            {
-                var connectionString = GetConnectionString();
-                var connection = new SqlConnection(connectionString);
-                var server = new Server(new ServerConnection(connection));
-                var script = GetAdminstrativeDivisionDataScript();
+            //All script blocks must be end with GO statement.
+            var scripts = GetAdminstrativeDivisionDataScript();
 
-                connectionContext = server.ConnectionContext;
-                connectionContext.BeginTransaction();
-                connectionContext.ExecuteNonQuery(script);
-                connectionContext.CommitTransaction();
-            }
-            catch
+            var session = transactionManager.GetSession();
+            var buffer = new StringBuilder();
+            foreach (var script in scripts)
             {
-                //roll back if insert fail
-                if (connectionContext != null && connectionContext.IsOpen)
+                //If line starts with GO, execute immediately.
+                if (script.StartsWith("GO"))
                 {
-                    connectionContext.RollBackTransaction();
+                    var query = session.CreateSQLQuery(buffer.ToString());
+                    query.ExecuteUpdate();
+                    buffer.Clear();
                 }
-                //throw exception to handle by default handler  
-                throw;
+                else
+                {
+                    //If line does not start with GO, just append script. 
+                    buffer.AppendLine(script);
+                }
             }
 
             return 2;
@@ -106,7 +95,7 @@ namespace CodeSanook.AdministrativeDivision
             return connectionString;
         }
 
-        private string GetAdminstrativeDivisionDataScript()
+        private string[] GetAdminstrativeDivisionDataScript()
         {
             var scriptUrl = Url.Combine(
                 "~/Modules",
@@ -115,7 +104,7 @@ namespace CodeSanook.AdministrativeDivision
                 "AdministrativeDivisionData.sql");
 
             var scriptPath = HostingEnvironment.MapPath(scriptUrl);
-            return File.ReadAllText(scriptPath);
+            return File.ReadAllLines(scriptPath);
         }
 
         private string GetRootPath()
