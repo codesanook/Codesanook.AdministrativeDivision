@@ -42,7 +42,7 @@ namespace CodeSanook.AdministrativeDivision
                     .Column<int>("Code")
                     .Column<string>("NameInThai")
                     .Column<string>("NameInEnglish")
-                    .Column<int>("ProvinceRecord_Id")
+                    .Column<int>("Province_Id")
             );
 
             SchemaBuilder.CreateTable(typeof(SubdistrictRecord).Name, table =>

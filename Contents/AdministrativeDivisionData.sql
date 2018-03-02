@@ -171,1861 +171,1861 @@ GO
 -- ----------------------------
 SET IDENTITY_INSERT [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ON
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'1', N'1001', N'เขต พระนคร', N'Phra Nakhon', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'1', N'1001', N'เขต พระนคร', N'Phra Nakhon', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'2', N'1002', N'เขต ดุสิต', N'Dusit', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'2', N'1002', N'เขต ดุสิต', N'Dusit', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'3', N'1003', N'เขต หนองจอก', N'Nong Chok', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'3', N'1003', N'เขต หนองจอก', N'Nong Chok', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'4', N'1004', N'เขต บางรัก', N'Bang Rak', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'4', N'1004', N'เขต บางรัก', N'Bang Rak', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'5', N'1005', N'เขต บางเขน', N'Bang Khen', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'5', N'1005', N'เขต บางเขน', N'Bang Khen', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'6', N'1006', N'เขต บางกะปิ', N'Bang Kapi', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'6', N'1006', N'เขต บางกะปิ', N'Bang Kapi', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'7', N'1007', N'เขต ปทุมวัน', N'Pathum Wan', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'7', N'1007', N'เขต ปทุมวัน', N'Pathum Wan', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'8', N'1008', N'เขต ป้อมปราบศัตรูพ่าย', N'Pom Prap Sattruphai', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'8', N'1008', N'เขต ป้อมปราบศัตรูพ่าย', N'Pom Prap Sattruphai', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'9', N'1009', N'เขต พระโขนง', N'Phra Khanong', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'9', N'1009', N'เขต พระโขนง', N'Phra Khanong', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'10', N'1010', N'เขต มีนบุรี', N'Min Buri', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'10', N'1010', N'เขต มีนบุรี', N'Min Buri', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'11', N'1011', N'เขต ลาดกระบัง', N'Lat Krabang', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'11', N'1011', N'เขต ลาดกระบัง', N'Lat Krabang', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'12', N'1012', N'เขต ยานนาวา', N'Yannawa', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'12', N'1012', N'เขต ยานนาวา', N'Yannawa', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'13', N'1013', N'เขต สัมพันธวงศ์', N'Samphanthawong', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'13', N'1013', N'เขต สัมพันธวงศ์', N'Samphanthawong', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'14', N'1014', N'เขต พญาไท', N'Phaya Thai', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'14', N'1014', N'เขต พญาไท', N'Phaya Thai', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'15', N'1015', N'เขต ธนบุรี', N'Thon Buri', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'15', N'1015', N'เขต ธนบุรี', N'Thon Buri', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'16', N'1016', N'เขต บางกอกใหญ่', N'Bangkok Yai', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'16', N'1016', N'เขต บางกอกใหญ่', N'Bangkok Yai', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'17', N'1017', N'เขต ห้วยขวาง', N'Huai Khwang', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'17', N'1017', N'เขต ห้วยขวาง', N'Huai Khwang', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'18', N'1018', N'เขต คลองสาน', N'Khlong San', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'18', N'1018', N'เขต คลองสาน', N'Khlong San', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'19', N'1019', N'เขต ตลิ่งชัน', N'Taling Chan', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'19', N'1019', N'เขต ตลิ่งชัน', N'Taling Chan', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'20', N'1020', N'เขต บางกอกน้อย', N'Bangkok Noi', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'20', N'1020', N'เขต บางกอกน้อย', N'Bangkok Noi', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'21', N'1021', N'เขต บางขุนเทียน', N'Bang Khun Thian', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'21', N'1021', N'เขต บางขุนเทียน', N'Bang Khun Thian', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'22', N'1022', N'เขต ภาษีเจริญ', N'Phasi Charoen', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'22', N'1022', N'เขต ภาษีเจริญ', N'Phasi Charoen', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'23', N'1023', N'เขต หนองแขม', N'Nong Khaem', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'23', N'1023', N'เขต หนองแขม', N'Nong Khaem', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'24', N'1024', N'เขต ราษฎร์บูรณะ', N'Rat Burana', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'24', N'1024', N'เขต ราษฎร์บูรณะ', N'Rat Burana', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'25', N'1025', N'เขต บางพลัด', N'Bang Phlat', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'25', N'1025', N'เขต บางพลัด', N'Bang Phlat', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'26', N'1026', N'เขต ดินแดง', N'Din Daeng', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'26', N'1026', N'เขต ดินแดง', N'Din Daeng', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'27', N'1027', N'เขต บึงกุ่ม', N'Bung Kum', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'27', N'1027', N'เขต บึงกุ่ม', N'Bung Kum', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'28', N'1028', N'เขต สาทร', N'Sa Thon', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'28', N'1028', N'เขต สาทร', N'Sa Thon', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'29', N'1029', N'เขต บางซื่อ', N'Bang Su', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'29', N'1029', N'เขต บางซื่อ', N'Bang Su', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'30', N'1030', N'เขต จตุจักร', N'Chatuchak', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'30', N'1030', N'เขต จตุจักร', N'Chatuchak', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'31', N'1031', N'เขต บางคอแหลม', N'Bang Kho Laem', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'31', N'1031', N'เขต บางคอแหลม', N'Bang Kho Laem', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'32', N'1032', N'เขต ประเวศ', N'Prawet', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'32', N'1032', N'เขต ประเวศ', N'Prawet', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'33', N'1033', N'เขต คลองเตย', N'Khlong Toei', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'33', N'1033', N'เขต คลองเตย', N'Khlong Toei', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'34', N'1034', N'เขต สวนหลวง', N'Suan Luang', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'34', N'1034', N'เขต สวนหลวง', N'Suan Luang', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'35', N'1035', N'เขต จอมทอง', N'Chom Thong', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'35', N'1035', N'เขต จอมทอง', N'Chom Thong', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'36', N'1036', N'เขต ดอนเมือง', N'Don Mueang', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'36', N'1036', N'เขต ดอนเมือง', N'Don Mueang', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'37', N'1037', N'เขต ราชเทวี', N'Rat Thewi', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'37', N'1037', N'เขต ราชเทวี', N'Rat Thewi', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'38', N'1038', N'เขต ลาดพร้าว', N'Lat Phrao', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'38', N'1038', N'เขต ลาดพร้าว', N'Lat Phrao', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'39', N'1039', N'เขต วัฒนา', N'Watthana', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'39', N'1039', N'เขต วัฒนา', N'Watthana', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'40', N'1040', N'เขต บางแค', N'Bang Khae', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'40', N'1040', N'เขต บางแค', N'Bang Khae', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'41', N'1041', N'เขต หลักสี่', N'Lak Si', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'41', N'1041', N'เขต หลักสี่', N'Lak Si', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'42', N'1042', N'เขต สายไหม', N'Sai Mai', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'42', N'1042', N'เขต สายไหม', N'Sai Mai', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'43', N'1043', N'เขต คันนายาว', N'Khanna Yao', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'43', N'1043', N'เขต คันนายาว', N'Khanna Yao', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'44', N'1044', N'เขต สะพานสูง', N'Saphan Sung', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'44', N'1044', N'เขต สะพานสูง', N'Saphan Sung', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'45', N'1045', N'เขต วังทองหลาง', N'Wang Thong Lang', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'45', N'1045', N'เขต วังทองหลาง', N'Wang Thong Lang', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'46', N'1046', N'เขต คลองสามวา', N'Khlong Sam Wa', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'46', N'1046', N'เขต คลองสามวา', N'Khlong Sam Wa', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'47', N'1047', N'เขต บางนา', N'Bang Na', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'47', N'1047', N'เขต บางนา', N'Bang Na', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'48', N'1048', N'เขต ทวีวัฒนา', N'Thawi Watthana', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'48', N'1048', N'เขต ทวีวัฒนา', N'Thawi Watthana', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'49', N'1049', N'เขต ทุ่งครุ', N'Thung Khu', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'49', N'1049', N'เขต ทุ่งครุ', N'Thung Khu', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'50', N'1050', N'เขต บางบอน', N'Bang Bon', N'1');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'50', N'1050', N'เขต บางบอน', N'Bang Bon', N'1');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'51', N'1101', N'เมืองสมุทรปราการ', N'Mueang Samut Prakan', N'2');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'51', N'1101', N'เมืองสมุทรปราการ', N'Mueang Samut Prakan', N'2');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'52', N'1102', N'บางบ่อ', N'Bang Bo', N'2');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'52', N'1102', N'บางบ่อ', N'Bang Bo', N'2');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'53', N'1103', N'บางพลี', N'Bang Phli', N'2');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'53', N'1103', N'บางพลี', N'Bang Phli', N'2');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'54', N'1104', N'พระประแดง', N'Phra Pradaeng', N'2');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'54', N'1104', N'พระประแดง', N'Phra Pradaeng', N'2');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'55', N'1105', N'พระสมุทรเจดีย์', N'Phra Samut Chedi', N'2');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'55', N'1105', N'พระสมุทรเจดีย์', N'Phra Samut Chedi', N'2');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'56', N'1106', N'บางเสาธง', N'Bang Sao Thong', N'2');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'56', N'1106', N'บางเสาธง', N'Bang Sao Thong', N'2');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'57', N'1201', N'เมืองนนทบุรี', N'Mueang Nonthaburi', N'3');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'57', N'1201', N'เมืองนนทบุรี', N'Mueang Nonthaburi', N'3');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'58', N'1202', N'บางกรวย', N'Bang Kruai', N'3');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'58', N'1202', N'บางกรวย', N'Bang Kruai', N'3');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'59', N'1203', N'บางใหญ่', N'Bang Yai', N'3');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'59', N'1203', N'บางใหญ่', N'Bang Yai', N'3');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'60', N'1204', N'บางบัวทอง', N'Bang Bua Thong', N'3');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'60', N'1204', N'บางบัวทอง', N'Bang Bua Thong', N'3');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'61', N'1205', N'ไทรน้อย', N'Sai Noi', N'3');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'61', N'1205', N'ไทรน้อย', N'Sai Noi', N'3');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'62', N'1206', N'ปากเกร็ด', N'Pak Kret', N'3');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'62', N'1206', N'ปากเกร็ด', N'Pak Kret', N'3');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'63', N'1301', N'เมืองปทุมธานี', N'Mueang Pathum Thani', N'4');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'63', N'1301', N'เมืองปทุมธานี', N'Mueang Pathum Thani', N'4');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'64', N'1302', N'คลองหลวง', N'khlong Luang', N'4');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'64', N'1302', N'คลองหลวง', N'khlong Luang', N'4');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'65', N'1303', N'ธัญบุรี', N'Thanyaburi', N'4');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'65', N'1303', N'ธัญบุรี', N'Thanyaburi', N'4');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'66', N'1304', N'หนองเสือ', N'Nong Suea', N'4');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'66', N'1304', N'หนองเสือ', N'Nong Suea', N'4');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'67', N'1305', N'ลาดหลุมแก้ว', N'Lat Lum Kaeo', N'4');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'67', N'1305', N'ลาดหลุมแก้ว', N'Lat Lum Kaeo', N'4');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'68', N'1306', N'ลำลูกกา', N'Lam Luk Ka', N'4');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'68', N'1306', N'ลำลูกกา', N'Lam Luk Ka', N'4');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'69', N'1307', N'สามโคก', N'Sam Khok', N'4');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'69', N'1307', N'สามโคก', N'Sam Khok', N'4');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'70', N'1401', N'พระนครศรีอยุธยา', N'Phra Nakhon Si Ayutthaya', N'5');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'70', N'1401', N'พระนครศรีอยุธยา', N'Phra Nakhon Si Ayutthaya', N'5');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'71', N'1402', N'ท่าเรือ', N'Tha Ruea', N'5');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'71', N'1402', N'ท่าเรือ', N'Tha Ruea', N'5');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'72', N'1403', N'นครหลวง', N'Nakhon Luang', N'5');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'72', N'1403', N'นครหลวง', N'Nakhon Luang', N'5');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'73', N'1404', N'บางไทร', N'Bang Sai', N'5');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'73', N'1404', N'บางไทร', N'Bang Sai', N'5');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'74', N'1405', N'บางบาล', N'Bang Ban', N'5');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'74', N'1405', N'บางบาล', N'Bang Ban', N'5');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'75', N'1406', N'บางปะอิน', N'Bang Pa-in', N'5');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'75', N'1406', N'บางปะอิน', N'Bang Pa-in', N'5');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'76', N'1407', N'บางปะหัน', N'Bang Pahan', N'5');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'76', N'1407', N'บางปะหัน', N'Bang Pahan', N'5');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'77', N'1408', N'ผักไห่', N'Phak Hai', N'5');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'77', N'1408', N'ผักไห่', N'Phak Hai', N'5');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'78', N'1409', N'ภาชี', N'Phachi', N'5');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'78', N'1409', N'ภาชี', N'Phachi', N'5');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'79', N'1410', N'ลาดบัวหลวง', N'Lat Bua Luang', N'5');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'79', N'1410', N'ลาดบัวหลวง', N'Lat Bua Luang', N'5');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'80', N'1411', N'วังน้อย', N'Wang Noi', N'5');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'80', N'1411', N'วังน้อย', N'Wang Noi', N'5');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'81', N'1412', N'เสนา', N'Sena', N'5');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'81', N'1412', N'เสนา', N'Sena', N'5');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'82', N'1413', N'บางซ้าย', N'Bang Sai', N'5');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'82', N'1413', N'บางซ้าย', N'Bang Sai', N'5');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'83', N'1414', N'อุทัย', N'Uthai', N'5');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'83', N'1414', N'อุทัย', N'Uthai', N'5');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'84', N'1415', N'มหาราช', N'Maha Rat', N'5');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'84', N'1415', N'มหาราช', N'Maha Rat', N'5');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'85', N'1416', N'บ้านแพรก', N'Ban Phraek', N'5');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'85', N'1416', N'บ้านแพรก', N'Ban Phraek', N'5');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'86', N'1501', N'เมืองอ่างทอง', N'Mueang Ang Thong', N'6');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'86', N'1501', N'เมืองอ่างทอง', N'Mueang Ang Thong', N'6');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'87', N'1502', N'ไชโย', N'Chaiyo', N'6');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'87', N'1502', N'ไชโย', N'Chaiyo', N'6');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'88', N'1503', N'ป่าโมก', N'Pa Mok', N'6');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'88', N'1503', N'ป่าโมก', N'Pa Mok', N'6');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'89', N'1504', N'โพธิ์ทอง', N'Pho Thong', N'6');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'89', N'1504', N'โพธิ์ทอง', N'Pho Thong', N'6');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'90', N'1505', N'แสวงหา', N'Sawaeng Ha', N'6');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'90', N'1505', N'แสวงหา', N'Sawaeng Ha', N'6');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'91', N'1506', N'วิเศษชัยชาญ', N'Wiset Chai Chan', N'6');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'91', N'1506', N'วิเศษชัยชาญ', N'Wiset Chai Chan', N'6');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'92', N'1507', N'สามโก้', N'Samko', N'6');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'92', N'1507', N'สามโก้', N'Samko', N'6');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'93', N'1601', N'เมืองลพบุรี', N'Mueang Lop Buri', N'7');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'93', N'1601', N'เมืองลพบุรี', N'Mueang Lop Buri', N'7');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'94', N'1602', N'พัฒนานิคม', N'Phatthana Nikhom', N'7');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'94', N'1602', N'พัฒนานิคม', N'Phatthana Nikhom', N'7');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'95', N'1603', N'โคกสำโรง', N'Khok Samrong', N'7');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'95', N'1603', N'โคกสำโรง', N'Khok Samrong', N'7');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'96', N'1604', N'ชัยบาดาล', N'Chai Badan', N'7');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'96', N'1604', N'ชัยบาดาล', N'Chai Badan', N'7');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'97', N'1605', N'ท่าวุ้ง', N'Tha Wung', N'7');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'97', N'1605', N'ท่าวุ้ง', N'Tha Wung', N'7');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'98', N'1606', N'บ้านหมี่', N'Ban Mi', N'7');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'98', N'1606', N'บ้านหมี่', N'Ban Mi', N'7');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'99', N'1607', N'ท่าหลวง', N'Tha Luang', N'7');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'99', N'1607', N'ท่าหลวง', N'Tha Luang', N'7');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'100', N'1608', N'สระโบสถ์', N'Sa Bot', N'7');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'100', N'1608', N'สระโบสถ์', N'Sa Bot', N'7');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'101', N'1609', N'โคกเจริญ', N'Khok Charoen', N'7');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'101', N'1609', N'โคกเจริญ', N'Khok Charoen', N'7');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'102', N'1610', N'ลำสนธิ', N'Lam Sonthi', N'7');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'102', N'1610', N'ลำสนธิ', N'Lam Sonthi', N'7');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'103', N'1611', N'หนองม่วง', N'Nong Muang', N'7');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'103', N'1611', N'หนองม่วง', N'Nong Muang', N'7');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'104', N'1701', N'เมืองสิงห์บุรี', N'Mueang Sing Buri', N'8');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'104', N'1701', N'เมืองสิงห์บุรี', N'Mueang Sing Buri', N'8');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'105', N'1702', N'บางระจัน', N'Bang Rachan', N'8');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'105', N'1702', N'บางระจัน', N'Bang Rachan', N'8');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'106', N'1703', N'ค่ายบางระจัน', N'Khai Bang Rachan', N'8');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'106', N'1703', N'ค่ายบางระจัน', N'Khai Bang Rachan', N'8');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'107', N'1704', N'พรหมบุรี', N'Phrom Buri', N'8');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'107', N'1704', N'พรหมบุรี', N'Phrom Buri', N'8');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'108', N'1705', N'ท่าช้าง', N'Tha Chang', N'8');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'108', N'1705', N'ท่าช้าง', N'Tha Chang', N'8');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'109', N'1706', N'อินทร์บุรี', N'In Buri', N'8');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'109', N'1706', N'อินทร์บุรี', N'In Buri', N'8');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'110', N'1801', N'เมืองชัยนาท', N'Mueang Chai Nat', N'9');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'110', N'1801', N'เมืองชัยนาท', N'Mueang Chai Nat', N'9');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'111', N'1802', N'มโนรมย์', N'Manorom', N'9');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'111', N'1802', N'มโนรมย์', N'Manorom', N'9');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'112', N'1803', N'วัดสิงห์', N'Wat Sing', N'9');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'112', N'1803', N'วัดสิงห์', N'Wat Sing', N'9');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'113', N'1804', N'สรรพยา', N'Sapphaya', N'9');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'113', N'1804', N'สรรพยา', N'Sapphaya', N'9');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'114', N'1805', N'สรรคบุรี', N'Sankhaburi', N'9');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'114', N'1805', N'สรรคบุรี', N'Sankhaburi', N'9');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'115', N'1806', N'หันคา', N'Hankha', N'9');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'115', N'1806', N'หันคา', N'Hankha', N'9');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'116', N'1807', N'หนองมะโมง', N'Nong Mamong', N'9');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'116', N'1807', N'หนองมะโมง', N'Nong Mamong', N'9');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'117', N'1808', N'เนินขาม', N'Noen Kham', N'9');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'117', N'1808', N'เนินขาม', N'Noen Kham', N'9');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'118', N'1901', N'เมืองสระบุรี', N'Mueang Saraburi', N'10');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'118', N'1901', N'เมืองสระบุรี', N'Mueang Saraburi', N'10');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'119', N'1902', N'แก่งคอย', N'Kaeng Khoi', N'10');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'119', N'1902', N'แก่งคอย', N'Kaeng Khoi', N'10');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'120', N'1903', N'หนองแค', N'Nong Khae', N'10');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'120', N'1903', N'หนองแค', N'Nong Khae', N'10');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'121', N'1904', N'วิหารแดง', N'Wihan Daeng', N'10');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'121', N'1904', N'วิหารแดง', N'Wihan Daeng', N'10');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'122', N'1905', N'หนองแซง', N'Nong Saeng', N'10');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'122', N'1905', N'หนองแซง', N'Nong Saeng', N'10');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'123', N'1906', N'บ้านหมอ', N'Ban Mo', N'10');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'123', N'1906', N'บ้านหมอ', N'Ban Mo', N'10');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'124', N'1907', N'ดอนพุด', N'Don Phut', N'10');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'124', N'1907', N'ดอนพุด', N'Don Phut', N'10');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'125', N'1908', N'หนองโดน', N'Nong Don', N'10');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'125', N'1908', N'หนองโดน', N'Nong Don', N'10');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'126', N'1909', N'พระพุทธบาท', N'Phra Phutthabat', N'10');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'126', N'1909', N'พระพุทธบาท', N'Phra Phutthabat', N'10');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'127', N'1910', N'เสาไห้', N'Sao Hai', N'10');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'127', N'1910', N'เสาไห้', N'Sao Hai', N'10');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'128', N'1911', N'มวกเหล็ก', N'Muak Lek', N'10');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'128', N'1911', N'มวกเหล็ก', N'Muak Lek', N'10');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'129', N'1912', N'วังม่วง', N'Wang Muang', N'10');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'129', N'1912', N'วังม่วง', N'Wang Muang', N'10');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'130', N'1913', N'เฉลิมพระเกียรติ', N'Chaloem Phra Kiet', N'10');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'130', N'1913', N'เฉลิมพระเกียรติ', N'Chaloem Phra Kiet', N'10');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'131', N'2001', N'เมืองชลบุรี', N'Mueang Chon Buri', N'11');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'131', N'2001', N'เมืองชลบุรี', N'Mueang Chon Buri', N'11');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'132', N'2002', N'บ้านบึง', N'Ban Bueng', N'11');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'132', N'2002', N'บ้านบึง', N'Ban Bueng', N'11');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'133', N'2003', N'หนองใหญ่', N'Nong Yai', N'11');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'133', N'2003', N'หนองใหญ่', N'Nong Yai', N'11');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'134', N'2004', N'บางละมุง', N'Bang Lamung', N'11');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'134', N'2004', N'บางละมุง', N'Bang Lamung', N'11');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'135', N'2005', N'พานทอง', N'Phan Thong', N'11');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'135', N'2005', N'พานทอง', N'Phan Thong', N'11');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'136', N'2006', N'พนัสนิคม', N'Phanat Nikhom', N'11');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'136', N'2006', N'พนัสนิคม', N'Phanat Nikhom', N'11');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'137', N'2007', N'ศรีราชา', N'Si Racha', N'11');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'137', N'2007', N'ศรีราชา', N'Si Racha', N'11');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'138', N'2008', N'เกาะสีชัง', N'Ko Sichang', N'11');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'138', N'2008', N'เกาะสีชัง', N'Ko Sichang', N'11');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'139', N'2009', N'สัตหีบ', N'Sattahip', N'11');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'139', N'2009', N'สัตหีบ', N'Sattahip', N'11');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'140', N'2010', N'บ่อทอง', N'Bo Thong', N'11');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'140', N'2010', N'บ่อทอง', N'Bo Thong', N'11');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'141', N'2011', N'เกาะจันทร์', N'Ko Chan', N'11');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'141', N'2011', N'เกาะจันทร์', N'Ko Chan', N'11');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'142', N'2101', N'เมืองระยอง', N'Mueang Rayong', N'12');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'142', N'2101', N'เมืองระยอง', N'Mueang Rayong', N'12');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'143', N'2102', N'บ้านฉาง', N'Ban Chang', N'12');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'143', N'2102', N'บ้านฉาง', N'Ban Chang', N'12');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'144', N'2103', N'แกลง', N'Klaeng', N'12');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'144', N'2103', N'แกลง', N'Klaeng', N'12');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'145', N'2104', N'วังจันทร์', N'Wang Chan', N'12');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'145', N'2104', N'วังจันทร์', N'Wang Chan', N'12');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'146', N'2105', N'บ้านค่าย', N'Ban Khai', N'12');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'146', N'2105', N'บ้านค่าย', N'Ban Khai', N'12');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'147', N'2106', N'ปลวกแดง', N'Pluak Daeng', N'12');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'147', N'2106', N'ปลวกแดง', N'Pluak Daeng', N'12');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'148', N'2107', N'เขาชะเมา', N'Khao Chamao', N'12');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'148', N'2107', N'เขาชะเมา', N'Khao Chamao', N'12');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'149', N'2108', N'นิคมพัฒนา', N'Nikhom Phatthana', N'12');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'149', N'2108', N'นิคมพัฒนา', N'Nikhom Phatthana', N'12');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'150', N'2201', N'เมืองจันทบุรี', N'Mueang Chanthaburi', N'13');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'150', N'2201', N'เมืองจันทบุรี', N'Mueang Chanthaburi', N'13');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'151', N'2202', N'ขลุง', N'Khlung', N'13');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'151', N'2202', N'ขลุง', N'Khlung', N'13');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'152', N'2203', N'ท่าใหม่', N'Tha Mai', N'13');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'152', N'2203', N'ท่าใหม่', N'Tha Mai', N'13');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'153', N'2204', N'โป่งน้ำร้อน', N'Pong Nam Ron', N'13');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'153', N'2204', N'โป่งน้ำร้อน', N'Pong Nam Ron', N'13');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'154', N'2205', N'มะขาม', N'Makham', N'13');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'154', N'2205', N'มะขาม', N'Makham', N'13');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'155', N'2206', N'แหลมสิงห์', N'Laem Sing', N'13');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'155', N'2206', N'แหลมสิงห์', N'Laem Sing', N'13');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'156', N'2207', N'สอยดาว', N'Soi Dao', N'13');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'156', N'2207', N'สอยดาว', N'Soi Dao', N'13');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'157', N'2208', N'แก่งหางแมว', N'Kaeng Hang Maeo', N'13');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'157', N'2208', N'แก่งหางแมว', N'Kaeng Hang Maeo', N'13');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'158', N'2209', N'นายายอาม', N'Na Yai Am', N'13');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'158', N'2209', N'นายายอาม', N'Na Yai Am', N'13');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'159', N'2210', N'เขาคิชฌกูฏ', N'Khao Khitchakut', N'13');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'159', N'2210', N'เขาคิชฌกูฏ', N'Khao Khitchakut', N'13');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'160', N'2301', N'เมืองตราด', N'Mueang Trat', N'14');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'160', N'2301', N'เมืองตราด', N'Mueang Trat', N'14');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'161', N'2302', N'คลองใหญ่', N'Khlong Yai', N'14');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'161', N'2302', N'คลองใหญ่', N'Khlong Yai', N'14');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'162', N'2303', N'เขาสมิง', N'Khao Saming', N'14');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'162', N'2303', N'เขาสมิง', N'Khao Saming', N'14');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'163', N'2304', N'บ่อไร่', N'Bo Rai', N'14');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'163', N'2304', N'บ่อไร่', N'Bo Rai', N'14');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'164', N'2305', N'แหลมงอบ', N'Laem Ngop', N'14');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'164', N'2305', N'แหลมงอบ', N'Laem Ngop', N'14');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'165', N'2306', N'เกาะกูด', N'Ko Kut', N'14');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'165', N'2306', N'เกาะกูด', N'Ko Kut', N'14');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'166', N'2307', N'เกาะช้าง', N'Ko Chang', N'14');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'166', N'2307', N'เกาะช้าง', N'Ko Chang', N'14');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'167', N'2401', N'เมืองฉะเชิงเทรา', N'Mueang Chachoengsao', N'15');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'167', N'2401', N'เมืองฉะเชิงเทรา', N'Mueang Chachoengsao', N'15');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'168', N'2402', N'บางคล้า', N'Bang Khla', N'15');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'168', N'2402', N'บางคล้า', N'Bang Khla', N'15');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'169', N'2403', N'บางน้ำเปรี้ยว', N'Bang Nam Priao', N'15');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'169', N'2403', N'บางน้ำเปรี้ยว', N'Bang Nam Priao', N'15');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'170', N'2404', N'บางปะกง', N'Bang Pakong', N'15');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'170', N'2404', N'บางปะกง', N'Bang Pakong', N'15');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'171', N'2405', N'บ้านโพธิ์', N'Ban Pho', N'15');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'171', N'2405', N'บ้านโพธิ์', N'Ban Pho', N'15');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'172', N'2406', N'พนมสารคาม', N'Phanom Sarakham', N'15');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'172', N'2406', N'พนมสารคาม', N'Phanom Sarakham', N'15');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'173', N'2407', N'ราชสาส์น', N'Ratchasan', N'15');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'173', N'2407', N'ราชสาส์น', N'Ratchasan', N'15');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'174', N'2408', N'สนามชัยเขต', N'Sanam Chai Khet', N'15');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'174', N'2408', N'สนามชัยเขต', N'Sanam Chai Khet', N'15');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'175', N'2409', N'แปลงยาว', N'Pleang Yao', N'15');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'175', N'2409', N'แปลงยาว', N'Pleang Yao', N'15');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'176', N'2410', N'ท่าตะเกียบ', N'Tha Takiap', N'15');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'176', N'2410', N'ท่าตะเกียบ', N'Tha Takiap', N'15');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'177', N'2411', N'คลองเขื่อน', N'Khlong Khuean', N'15');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'177', N'2411', N'คลองเขื่อน', N'Khlong Khuean', N'15');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'178', N'2501', N'เมืองปราจีนบุรี', N'Mueang Prachin Buri', N'16');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'178', N'2501', N'เมืองปราจีนบุรี', N'Mueang Prachin Buri', N'16');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'179', N'2502', N'กบินทร์บุรี', N'Kabin Buri', N'16');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'179', N'2502', N'กบินทร์บุรี', N'Kabin Buri', N'16');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'180', N'2503', N'นาดี', N'Na Di', N'16');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'180', N'2503', N'นาดี', N'Na Di', N'16');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'181', N'2506', N'บ้านสร้าง', N'Ban Sang', N'16');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'181', N'2506', N'บ้านสร้าง', N'Ban Sang', N'16');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'182', N'2507', N'ประจันตคาม', N'Prachantakham', N'16');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'182', N'2507', N'ประจันตคาม', N'Prachantakham', N'16');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'183', N'2508', N'ศรีมหาโพธิ', N'Si Maha Phot', N'16');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'183', N'2508', N'ศรีมหาโพธิ', N'Si Maha Phot', N'16');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'184', N'2509', N'ศรีมโหสถ', N'Si Mahosot', N'16');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'184', N'2509', N'ศรีมโหสถ', N'Si Mahosot', N'16');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'185', N'2601', N'เมืองนครนายก', N'Mueang Nakhon Nayok', N'17');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'185', N'2601', N'เมืองนครนายก', N'Mueang Nakhon Nayok', N'17');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'186', N'2602', N'ปากพลี', N'Pak Phli', N'17');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'186', N'2602', N'ปากพลี', N'Pak Phli', N'17');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'187', N'2603', N'บ้านนา', N'Ban Na', N'17');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'187', N'2603', N'บ้านนา', N'Ban Na', N'17');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'188', N'2604', N'องครักษ์', N'Ongkharak', N'17');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'188', N'2604', N'องครักษ์', N'Ongkharak', N'17');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'189', N'2701', N'เมืองสระแก้ว', N'Mueang Sa Kaeo', N'18');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'189', N'2701', N'เมืองสระแก้ว', N'Mueang Sa Kaeo', N'18');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'190', N'2702', N'คลองหาด', N'Khlong Hat', N'18');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'190', N'2702', N'คลองหาด', N'Khlong Hat', N'18');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'191', N'2703', N'ตาพระยา', N'Ta Phraya', N'18');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'191', N'2703', N'ตาพระยา', N'Ta Phraya', N'18');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'192', N'2704', N'วังน้ำเย็น', N'Wang Nam Yen', N'18');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'192', N'2704', N'วังน้ำเย็น', N'Wang Nam Yen', N'18');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'193', N'2705', N'วัฒนานคร', N'Watthana Nakhon', N'18');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'193', N'2705', N'วัฒนานคร', N'Watthana Nakhon', N'18');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'194', N'2706', N'อรัญประเทศ', N'Aranyaprathet', N'18');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'194', N'2706', N'อรัญประเทศ', N'Aranyaprathet', N'18');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'195', N'2707', N'เขาฉกรรจ์', N'Khao Chakan', N'18');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'195', N'2707', N'เขาฉกรรจ์', N'Khao Chakan', N'18');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'196', N'2708', N'โคกสูง', N'Khok Sung', N'18');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'196', N'2708', N'โคกสูง', N'Khok Sung', N'18');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'197', N'2709', N'วังสมบูรณ์', N'Wang Sombun', N'18');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'197', N'2709', N'วังสมบูรณ์', N'Wang Sombun', N'18');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'198', N'3001', N'เมืองนครราชสีมา', N'Mueang Nakhon Ratchasima', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'198', N'3001', N'เมืองนครราชสีมา', N'Mueang Nakhon Ratchasima', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'199', N'3002', N'ครบุรี', N'Khon Buri', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'199', N'3002', N'ครบุรี', N'Khon Buri', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'200', N'3003', N'เสิงสาง', N'Soeng Sang', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'200', N'3003', N'เสิงสาง', N'Soeng Sang', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'201', N'3004', N'คง', N'Khong', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'201', N'3004', N'คง', N'Khong', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'202', N'3005', N'บ้านเหลื่อม', N'Ban Lueam', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'202', N'3005', N'บ้านเหลื่อม', N'Ban Lueam', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'203', N'3006', N'จักราช', N'Chakkarat', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'203', N'3006', N'จักราช', N'Chakkarat', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'204', N'3007', N'โชคชัย', N'Chok Chai', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'204', N'3007', N'โชคชัย', N'Chok Chai', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'205', N'3008', N'ด่านขุนทด', N'Dan Khun Thot', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'205', N'3008', N'ด่านขุนทด', N'Dan Khun Thot', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'206', N'3009', N'โนนไทย', N'Non Thai', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'206', N'3009', N'โนนไทย', N'Non Thai', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'207', N'3010', N'โนนสูง', N'Non Sung', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'207', N'3010', N'โนนสูง', N'Non Sung', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'208', N'3011', N'ขามสะแกแสง', N'Kham Sakaesaeng', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'208', N'3011', N'ขามสะแกแสง', N'Kham Sakaesaeng', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'209', N'3012', N'บัวใหญ่', N'Bua Yai', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'209', N'3012', N'บัวใหญ่', N'Bua Yai', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'210', N'3013', N'ประทาย', N'Prathai', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'210', N'3013', N'ประทาย', N'Prathai', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'211', N'3014', N'ปักธงชัย', N'Pak Thong Chai', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'211', N'3014', N'ปักธงชัย', N'Pak Thong Chai', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'212', N'3015', N'พิมาย', N'Phimai', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'212', N'3015', N'พิมาย', N'Phimai', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'213', N'3016', N'ห้วยแถลง', N'Huai Thalaeng', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'213', N'3016', N'ห้วยแถลง', N'Huai Thalaeng', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'214', N'3017', N'ชุมพวง', N'Chum Phuang', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'214', N'3017', N'ชุมพวง', N'Chum Phuang', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'215', N'3018', N'สูงเนิน', N'Sung Noen', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'215', N'3018', N'สูงเนิน', N'Sung Noen', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'216', N'3019', N'ขามทะเลสอ', N'Kham Thale So', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'216', N'3019', N'ขามทะเลสอ', N'Kham Thale So', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'217', N'3020', N'สีคิ้ว', N'Si Khio', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'217', N'3020', N'สีคิ้ว', N'Si Khio', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'218', N'3021', N'ปากช่อง', N'Pak Chong', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'218', N'3021', N'ปากช่อง', N'Pak Chong', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'219', N'3022', N'หนองบุญมาก', N'Nong Bunmak', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'219', N'3022', N'หนองบุญมาก', N'Nong Bunmak', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'220', N'3023', N'แก้งสนามนาง', N'Kaeng Sanam Nang', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'220', N'3023', N'แก้งสนามนาง', N'Kaeng Sanam Nang', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'221', N'3024', N'โนนแดง', N'Non Daeng', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'221', N'3024', N'โนนแดง', N'Non Daeng', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'222', N'3025', N'วังน้ำเขียว', N'Wang Nam Khiao', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'222', N'3025', N'วังน้ำเขียว', N'Wang Nam Khiao', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'223', N'3026', N'เทพารักษ์', N'Thepharak', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'223', N'3026', N'เทพารักษ์', N'Thepharak', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'224', N'3027', N'เมืองยาง', N'Mueang Yang', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'224', N'3027', N'เมืองยาง', N'Mueang Yang', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'225', N'3028', N'พระทองคำ', N'Phra Thong Kham', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'225', N'3028', N'พระทองคำ', N'Phra Thong Kham', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'226', N'3029', N'ลำทะเมนชัย', N'Lamtaman Chai', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'226', N'3029', N'ลำทะเมนชัย', N'Lamtaman Chai', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'227', N'3030', N'บัวลาย', N'Bua Lai', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'227', N'3030', N'บัวลาย', N'Bua Lai', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'228', N'3031', N'สีดา', N'Sida', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'228', N'3031', N'สีดา', N'Sida', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'229', N'3032', N'เฉลิมพระเกียรติ', N'Chaloem Phra Kiet', N'19');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'229', N'3032', N'เฉลิมพระเกียรติ', N'Chaloem Phra Kiet', N'19');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'230', N'3101', N'เมืองบุรีรัมย์', N'Mueang Buri Ram', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'230', N'3101', N'เมืองบุรีรัมย์', N'Mueang Buri Ram', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'231', N'3102', N'คูเมือง', N'Khu Mueang', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'231', N'3102', N'คูเมือง', N'Khu Mueang', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'232', N'3103', N'กระสัง', N'Krasang', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'232', N'3103', N'กระสัง', N'Krasang', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'233', N'3104', N'นางรอง', N'Nang Rong', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'233', N'3104', N'นางรอง', N'Nang Rong', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'234', N'3105', N'หนองกี่', N'Nong Ki', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'234', N'3105', N'หนองกี่', N'Nong Ki', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'235', N'3106', N'ละหานทราย', N'Lahan Sai', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'235', N'3106', N'ละหานทราย', N'Lahan Sai', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'236', N'3107', N'ประโคนชัย', N'Prakhon Chai', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'236', N'3107', N'ประโคนชัย', N'Prakhon Chai', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'237', N'3108', N'บ้านกรวด', N'Ban Kruat', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'237', N'3108', N'บ้านกรวด', N'Ban Kruat', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'238', N'3109', N'พุทไธสง', N'Phutthaisong', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'238', N'3109', N'พุทไธสง', N'Phutthaisong', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'239', N'3110', N'ลำปลายมาศ', N'Lam Plai Mat', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'239', N'3110', N'ลำปลายมาศ', N'Lam Plai Mat', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'240', N'3111', N'สตึก', N'Satuek', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'240', N'3111', N'สตึก', N'Satuek', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'241', N'3112', N'ปะคำ', N'Pakham', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'241', N'3112', N'ปะคำ', N'Pakham', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'242', N'3113', N'นาโพธิ์', N'Na Pho', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'242', N'3113', N'นาโพธิ์', N'Na Pho', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'243', N'3114', N'หนองหงส์', N'Nong Hong', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'243', N'3114', N'หนองหงส์', N'Nong Hong', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'244', N'3115', N'พลับพลาชัย', N'Phlapphla Chai', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'244', N'3115', N'พลับพลาชัย', N'Phlapphla Chai', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'245', N'3116', N'ห้วยราช', N'Huai Rat', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'245', N'3116', N'ห้วยราช', N'Huai Rat', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'246', N'3117', N'โนนสุวรรณ', N'Non Din Daeng', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'246', N'3117', N'โนนสุวรรณ', N'Non Din Daeng', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'247', N'3118', N'ชำนิ', N'Chamni', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'247', N'3118', N'ชำนิ', N'Chamni', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'248', N'3119', N'บ้านใหม่ไชยพจน์', N'Ban Mai Chaiyaphot', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'248', N'3119', N'บ้านใหม่ไชยพจน์', N'Ban Mai Chaiyaphot', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'249', N'3120', N'โนนดินแดง', N'Non Din Daeng', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'249', N'3120', N'โนนดินแดง', N'Non Din Daeng', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'250', N'3121', N'บ้านด่าน', N'Ban Dan', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'250', N'3121', N'บ้านด่าน', N'Ban Dan', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'251', N'3122', N'แคนดง', N'Khaen Dong', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'251', N'3122', N'แคนดง', N'Khaen Dong', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'252', N'3123', N'เฉลิมพระเกียรติ', N'Chaloem Phra Kiet', N'20');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'252', N'3123', N'เฉลิมพระเกียรติ', N'Chaloem Phra Kiet', N'20');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'253', N'3201', N'เมืองสุรินทร์', N'Mueang Surin', N'21');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'253', N'3201', N'เมืองสุรินทร์', N'Mueang Surin', N'21');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'254', N'3202', N'ชุมพลบุรี', N'Chumphon Buri', N'21');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'254', N'3202', N'ชุมพลบุรี', N'Chumphon Buri', N'21');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'255', N'3203', N'ท่าตูม', N'Tha Tum', N'21');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'255', N'3203', N'ท่าตูม', N'Tha Tum', N'21');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'256', N'3204', N'จอมพระ', N'Chom Phra', N'21');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'256', N'3204', N'จอมพระ', N'Chom Phra', N'21');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'257', N'3205', N'ปราสาท', N'Prasat', N'21');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'257', N'3205', N'ปราสาท', N'Prasat', N'21');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'258', N'3206', N'กาบเชิง', N'Kap Choeng', N'21');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'258', N'3206', N'กาบเชิง', N'Kap Choeng', N'21');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'259', N'3207', N'รัตนบุรี', N'Rattanaburi', N'21');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'259', N'3207', N'รัตนบุรี', N'Rattanaburi', N'21');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'260', N'3208', N'สนม', N'Sanom', N'21');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'260', N'3208', N'สนม', N'Sanom', N'21');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'261', N'3209', N'ศีขรภูมิ', N'Sikhoraphum', N'21');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'261', N'3209', N'ศีขรภูมิ', N'Sikhoraphum', N'21');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'262', N'3210', N'สังขะ', N'Sangkha', N'21');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'262', N'3210', N'สังขะ', N'Sangkha', N'21');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'263', N'3211', N'ลำดวน', N'Lamduan', N'21');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'263', N'3211', N'ลำดวน', N'Lamduan', N'21');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'264', N'3212', N'สำโรงทาบ', N'Samrong Thap', N'21');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'264', N'3212', N'สำโรงทาบ', N'Samrong Thap', N'21');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'265', N'3213', N'บัวเชด', N'Buachet', N'21');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'265', N'3213', N'บัวเชด', N'Buachet', N'21');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'266', N'3214', N'พนมดงรัก', N'Phanom Dong Rak', N'21');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'266', N'3214', N'พนมดงรัก', N'Phanom Dong Rak', N'21');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'267', N'3215', N'ศรีณรงค์', N'Si Narong', N'21');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'267', N'3215', N'ศรีณรงค์', N'Si Narong', N'21');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'268', N'3216', N'เขวาสินรินทร์', N'Khwao Sinarin', N'21');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'268', N'3216', N'เขวาสินรินทร์', N'Khwao Sinarin', N'21');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'269', N'3217', N'โนนนารายณ์', N'Non Narai', N'21');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'269', N'3217', N'โนนนารายณ์', N'Non Narai', N'21');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'270', N'3301', N'เมืองศรีสะเกษ', N'Mueang Si Sa Ket', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'270', N'3301', N'เมืองศรีสะเกษ', N'Mueang Si Sa Ket', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'271', N'3302', N'ยางชุมน้อย', N'Yang Chum Noi', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'271', N'3302', N'ยางชุมน้อย', N'Yang Chum Noi', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'272', N'3303', N'กันทรารมย์', N'Kanthararom', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'272', N'3303', N'กันทรารมย์', N'Kanthararom', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'273', N'3304', N'กันทรลักษ์', N'Kantharalak', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'273', N'3304', N'กันทรลักษ์', N'Kantharalak', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'274', N'3305', N'ขุขันธ์', N'Khukhan', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'274', N'3305', N'ขุขันธ์', N'Khukhan', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'275', N'3306', N'ไพรบึง', N'Phrai Bueng', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'275', N'3306', N'ไพรบึง', N'Phrai Bueng', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'276', N'3307', N'ปรางค์กู่', N'Prang Ku', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'276', N'3307', N'ปรางค์กู่', N'Prang Ku', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'277', N'3308', N'ขุนหาญ', N'Khun Han', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'277', N'3308', N'ขุนหาญ', N'Khun Han', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'278', N'3309', N'ราษีไศล', N'Rasi Salai', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'278', N'3309', N'ราษีไศล', N'Rasi Salai', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'279', N'3310', N'อุทุมพรพิสัย', N'Uthumphon Phisai', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'279', N'3310', N'อุทุมพรพิสัย', N'Uthumphon Phisai', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'280', N'3311', N'บึงบูรพ์', N'Bueng Bun', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'280', N'3311', N'บึงบูรพ์', N'Bueng Bun', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'281', N'3312', N'ห้วยทับทัน', N'Huai Thap Than', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'281', N'3312', N'ห้วยทับทัน', N'Huai Thap Than', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'282', N'3313', N'โนนคูณ', N'Non Khun', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'282', N'3313', N'โนนคูณ', N'Non Khun', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'283', N'3314', N'ศรีรัตนะ', N'Si Rattana', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'283', N'3314', N'ศรีรัตนะ', N'Si Rattana', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'284', N'3315', N'น้ำเกลี้ยง', N'Nam Kliang', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'284', N'3315', N'น้ำเกลี้ยง', N'Nam Kliang', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'285', N'3316', N'วังหิน', N'Wang Hin', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'285', N'3316', N'วังหิน', N'Wang Hin', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'286', N'3317', N'ภูสิงห์', N'Phu Sing', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'286', N'3317', N'ภูสิงห์', N'Phu Sing', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'287', N'3318', N'เมืองจันทร์', N'Mueang Chan', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'287', N'3318', N'เมืองจันทร์', N'Mueang Chan', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'288', N'3319', N'เบญจลักษ์', N'Benchalak', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'288', N'3319', N'เบญจลักษ์', N'Benchalak', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'289', N'3320', N'พยุห์', N'Phayu', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'289', N'3320', N'พยุห์', N'Phayu', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'290', N'3321', N'โพธิ์ศรีสุวรรณ', N'Pho Si Suwan', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'290', N'3321', N'โพธิ์ศรีสุวรรณ', N'Pho Si Suwan', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'291', N'3322', N'ศิลาลาด', N'Sila Lat', N'22');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'291', N'3322', N'ศิลาลาด', N'Sila Lat', N'22');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'292', N'3401', N'เมืองอุบลราชธานี', N'Mueang Ubon Ratchathani', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'292', N'3401', N'เมืองอุบลราชธานี', N'Mueang Ubon Ratchathani', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'293', N'3402', N'ศรีเมืองใหม่', N'Si Mueang Mai', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'293', N'3402', N'ศรีเมืองใหม่', N'Si Mueang Mai', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'294', N'3403', N'โขงเจียม', N'Khong Chiam', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'294', N'3403', N'โขงเจียม', N'Khong Chiam', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'295', N'3404', N'เขื่องใน', N'Khueang Nai', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'295', N'3404', N'เขื่องใน', N'Khueang Nai', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'296', N'3405', N'เขมราฐ', N'Khemarat', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'296', N'3405', N'เขมราฐ', N'Khemarat', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'297', N'3407', N'เดชอุดม', N'Det Udom', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'297', N'3407', N'เดชอุดม', N'Det Udom', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'298', N'3408', N'นาจะหลวย', N'Na Chaluai', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'298', N'3408', N'นาจะหลวย', N'Na Chaluai', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'299', N'3409', N'น้ำยืน', N'Nam Yuen', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'299', N'3409', N'น้ำยืน', N'Nam Yuen', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'300', N'3410', N'บุณฑริก', N'Boontharik', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'300', N'3410', N'บุณฑริก', N'Boontharik', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'301', N'3411', N'ตระการพืชผล', N'Trakan Phuet Phon', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'301', N'3411', N'ตระการพืชผล', N'Trakan Phuet Phon', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'302', N'3412', N'กุดข้าวปุ้น', N'Kut Khaopun', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'302', N'3412', N'กุดข้าวปุ้น', N'Kut Khaopun', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'303', N'3414', N'ม่วงสามสิบ', N'Muang Sam Sip', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'303', N'3414', N'ม่วงสามสิบ', N'Muang Sam Sip', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'304', N'3415', N'วารินชำราบ', N'Warin Chamrap', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'304', N'3415', N'วารินชำราบ', N'Warin Chamrap', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'305', N'3419', N'พิบูลมังสาหาร', N'Phibun Mangsahan', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'305', N'3419', N'พิบูลมังสาหาร', N'Phibun Mangsahan', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'306', N'3420', N'ตาลสุม', N'Tan Sum', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'306', N'3420', N'ตาลสุม', N'Tan Sum', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'307', N'3421', N'โพธิ์ไทร', N'Pho Sai', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'307', N'3421', N'โพธิ์ไทร', N'Pho Sai', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'308', N'3422', N'สำโรง', N'Samrong', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'308', N'3422', N'สำโรง', N'Samrong', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'309', N'3424', N'ดอนมดแดง', N'Don Mot Daeng', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'309', N'3424', N'ดอนมดแดง', N'Don Mot Daeng', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'310', N'3425', N'สิรินธร', N'Sirindhorn', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'310', N'3425', N'สิรินธร', N'Sirindhorn', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'311', N'3426', N'ทุ่งศรีอุดม', N'Thung Si Udom', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'311', N'3426', N'ทุ่งศรีอุดม', N'Thung Si Udom', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'312', N'3429', N'นาเยีย', N'Na Yia', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'312', N'3429', N'นาเยีย', N'Na Yia', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'313', N'3430', N'นาตาล', N'Na Tan', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'313', N'3430', N'นาตาล', N'Na Tan', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'314', N'3431', N'เหล่าเสือโก้ก', N'Lao Suea Kok', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'314', N'3431', N'เหล่าเสือโก้ก', N'Lao Suea Kok', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'315', N'3432', N'สว่างวีระวงศ์', N'Sawang Wirawong', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'315', N'3432', N'สว่างวีระวงศ์', N'Sawang Wirawong', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'316', N'3433', N'น้ำขุ่น', N'Nam Khun', N'23');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'316', N'3433', N'น้ำขุ่น', N'Nam Khun', N'23');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'317', N'3501', N'เมืองยโสธร', N'Mueang Yasothon', N'24');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'317', N'3501', N'เมืองยโสธร', N'Mueang Yasothon', N'24');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'318', N'3502', N'ทรายมูล', N'Sai Mun', N'24');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'318', N'3502', N'ทรายมูล', N'Sai Mun', N'24');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'319', N'3503', N'กุดชุม', N'Kut Chum', N'24');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'319', N'3503', N'กุดชุม', N'Kut Chum', N'24');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'320', N'3504', N'คำเขื่อนแก้ว', N'Kham Khuean Kaeo', N'24');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'320', N'3504', N'คำเขื่อนแก้ว', N'Kham Khuean Kaeo', N'24');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'321', N'3505', N'ป่าติ้ว', N'Pa Tio', N'24');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'321', N'3505', N'ป่าติ้ว', N'Pa Tio', N'24');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'322', N'3506', N'มหาชนะชัย', N'Maha Chana Chai', N'24');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'322', N'3506', N'มหาชนะชัย', N'Maha Chana Chai', N'24');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'323', N'3507', N'ค้อวัง', N'Kho Wang', N'24');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'323', N'3507', N'ค้อวัง', N'Kho Wang', N'24');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'324', N'3508', N'เลิงนกทา', N'Loeng Nok Tha', N'24');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'324', N'3508', N'เลิงนกทา', N'Loeng Nok Tha', N'24');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'325', N'3509', N'ไทยเจริญ', N'Thai Charoen', N'24');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'325', N'3509', N'ไทยเจริญ', N'Thai Charoen', N'24');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'326', N'3601', N'เมืองชัยภูมิ', N'Mueang Chaiyaphum', N'25');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'326', N'3601', N'เมืองชัยภูมิ', N'Mueang Chaiyaphum', N'25');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'327', N'3602', N'บ้านเขว้า', N'Ban Khwao', N'25');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'327', N'3602', N'บ้านเขว้า', N'Ban Khwao', N'25');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'328', N'3603', N'คอนสวรรค์', N'Khon Sawan', N'25');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'328', N'3603', N'คอนสวรรค์', N'Khon Sawan', N'25');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'329', N'3604', N'เกษตรสมบูรณ์', N'Kaset Sombun', N'25');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'329', N'3604', N'เกษตรสมบูรณ์', N'Kaset Sombun', N'25');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'330', N'3605', N'หนองบัวแดง', N'Nong Bua Daeng', N'25');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'330', N'3605', N'หนองบัวแดง', N'Nong Bua Daeng', N'25');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'331', N'3606', N'จัตุรัส', N'Chatturat', N'25');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'331', N'3606', N'จัตุรัส', N'Chatturat', N'25');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'332', N'3607', N'บำเหน็จณรงค์', N'Bamnet Narong', N'25');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'332', N'3607', N'บำเหน็จณรงค์', N'Bamnet Narong', N'25');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'333', N'3608', N'หนองบัวระเหว', N'Nong Bua Rawe', N'25');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'333', N'3608', N'หนองบัวระเหว', N'Nong Bua Rawe', N'25');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'334', N'3609', N'เทพสถิต', N'Thep Sathit', N'25');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'334', N'3609', N'เทพสถิต', N'Thep Sathit', N'25');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'335', N'3610', N'ภูเขียว', N'Phu Khiao', N'25');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'335', N'3610', N'ภูเขียว', N'Phu Khiao', N'25');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'336', N'3611', N'บ้านแท่น', N'Ban Thaen', N'25');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'336', N'3611', N'บ้านแท่น', N'Ban Thaen', N'25');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'337', N'3612', N'แก้งคร้อ', N'Kaeng Khro', N'25');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'337', N'3612', N'แก้งคร้อ', N'Kaeng Khro', N'25');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'338', N'3613', N'คอนสาร', N'Khon San', N'25');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'338', N'3613', N'คอนสาร', N'Khon San', N'25');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'339', N'3614', N'ภักดีชุมพล', N'Phakdi Chumphon', N'25');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'339', N'3614', N'ภักดีชุมพล', N'Phakdi Chumphon', N'25');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'340', N'3615', N'เนินสง่า', N'Noen Sa-nga', N'25');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'340', N'3615', N'เนินสง่า', N'Noen Sa-nga', N'25');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'341', N'3616', N'ซับใหญ่', N'Sap Yai', N'25');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'341', N'3616', N'ซับใหญ่', N'Sap Yai', N'25');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'342', N'3701', N'เมืองอำนาจเจริญ', N'Mueang Amnat Charoen', N'26');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'342', N'3701', N'เมืองอำนาจเจริญ', N'Mueang Amnat Charoen', N'26');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'343', N'3702', N'ชานุมาน', N'Chanuman', N'26');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'343', N'3702', N'ชานุมาน', N'Chanuman', N'26');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'344', N'3703', N'ปทุมราชวงศา', N'Pathum Ratchawongsa', N'26');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'344', N'3703', N'ปทุมราชวงศา', N'Pathum Ratchawongsa', N'26');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'345', N'3704', N'พนา', N'Phana', N'26');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'345', N'3704', N'พนา', N'Phana', N'26');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'346', N'3705', N'เสนางคนิคม', N'Senangkhanikhom', N'26');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'346', N'3705', N'เสนางคนิคม', N'Senangkhanikhom', N'26');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'347', N'3706', N'หัวตะพาน', N'Hua Taphan', N'26');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'347', N'3706', N'หัวตะพาน', N'Hua Taphan', N'26');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'348', N'3707', N'ลืออำนาจ', N'Lue Amnat', N'26');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'348', N'3707', N'ลืออำนาจ', N'Lue Amnat', N'26');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'349', N'3801', N'บึงกาฬ', N'Bueng Kan', N'27');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'349', N'3801', N'บึงกาฬ', N'Bueng Kan', N'27');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'350', N'3802', N'พรเจริญ', N'Phon Charoen', N'27');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'350', N'3802', N'พรเจริญ', N'Phon Charoen', N'27');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'351', N'3803', N'โซ่พิสัย', N'So Phisai', N'27');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'351', N'3803', N'โซ่พิสัย', N'So Phisai', N'27');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'352', N'3804', N'เซกา', N'Seka', N'27');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'352', N'3804', N'เซกา', N'Seka', N'27');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'353', N'3805', N'ปากคาด', N'Pak Khat', N'27');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'353', N'3805', N'ปากคาด', N'Pak Khat', N'27');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'354', N'3806', N'บึงโขงหลง', N'Bueng Khong Long', N'27');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'354', N'3806', N'บึงโขงหลง', N'Bueng Khong Long', N'27');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'355', N'3807', N'ศรีวิไล', N'Si Wilai', N'27');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'355', N'3807', N'ศรีวิไล', N'Si Wilai', N'27');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'356', N'3808', N'บุ่งคล้า', N'Bung Khla', N'27');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'356', N'3808', N'บุ่งคล้า', N'Bung Khla', N'27');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'357', N'3901', N'เมืองหนองบัวลำภู', N'Mueang Nong Bua Lam Phu', N'28');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'357', N'3901', N'เมืองหนองบัวลำภู', N'Mueang Nong Bua Lam Phu', N'28');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'358', N'3902', N'นากลาง', N'Na Klang', N'28');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'358', N'3902', N'นากลาง', N'Na Klang', N'28');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'359', N'3903', N'โนนสัง', N'Non Sang', N'28');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'359', N'3903', N'โนนสัง', N'Non Sang', N'28');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'360', N'3904', N'ศรีบุญเรือง', N'Si Bun Rueang', N'28');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'360', N'3904', N'ศรีบุญเรือง', N'Si Bun Rueang', N'28');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'361', N'3905', N'สุวรรณคูหา', N'Suwannakhuha', N'28');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'361', N'3905', N'สุวรรณคูหา', N'Suwannakhuha', N'28');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'362', N'3906', N'นาวัง', N'Na Wang', N'28');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'362', N'3906', N'นาวัง', N'Na Wang', N'28');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'363', N'4001', N'เมืองขอนแก่น', N'Mueang Khon Kaen', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'363', N'4001', N'เมืองขอนแก่น', N'Mueang Khon Kaen', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'364', N'4002', N'บ้านฝาง', N'Ban Fang', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'364', N'4002', N'บ้านฝาง', N'Ban Fang', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'365', N'4003', N'พระยืน', N'Phra Yuen', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'365', N'4003', N'พระยืน', N'Phra Yuen', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'366', N'4004', N'หนองเรือ', N'Nong Ruea', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'366', N'4004', N'หนองเรือ', N'Nong Ruea', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'367', N'4005', N'ชุมแพ', N'Chum Phae', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'367', N'4005', N'ชุมแพ', N'Chum Phae', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'368', N'4006', N'สีชมพู', N'Si Chomphu', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'368', N'4006', N'สีชมพู', N'Si Chomphu', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'369', N'4007', N'น้ำพอง', N'Nam Phong', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'369', N'4007', N'น้ำพอง', N'Nam Phong', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'370', N'4008', N'อุบลรัตน์', N'Ubolratana', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'370', N'4008', N'อุบลรัตน์', N'Ubolratana', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'371', N'4009', N'กระนวน', N'Kranuan', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'371', N'4009', N'กระนวน', N'Kranuan', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'372', N'4010', N'บ้านไผ่', N'Ban Phai', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'372', N'4010', N'บ้านไผ่', N'Ban Phai', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'373', N'4011', N'เปือยน้อย', N'Pueai Noi', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'373', N'4011', N'เปือยน้อย', N'Pueai Noi', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'374', N'4012', N'พล', N'Phon', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'374', N'4012', N'พล', N'Phon', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'375', N'4013', N'แวงใหญ่', N'Waeng Yai', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'375', N'4013', N'แวงใหญ่', N'Waeng Yai', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'376', N'4014', N'แวงน้อย', N'Waeng Noi', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'376', N'4014', N'แวงน้อย', N'Waeng Noi', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'377', N'4015', N'หนองสองห้อง', N'Nong Song Hong', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'377', N'4015', N'หนองสองห้อง', N'Nong Song Hong', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'378', N'4016', N'ภูเวียง', N'Phu Wiang', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'378', N'4016', N'ภูเวียง', N'Phu Wiang', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'379', N'4017', N'มัญจาคีรี', N'Mancha Khiri', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'379', N'4017', N'มัญจาคีรี', N'Mancha Khiri', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'380', N'4018', N'ชนบท', N'Chonnabot', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'380', N'4018', N'ชนบท', N'Chonnabot', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'381', N'4019', N'เขาสวนกวาง', N'Khao Suan Kwang', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'381', N'4019', N'เขาสวนกวาง', N'Khao Suan Kwang', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'382', N'4020', N'ภูผาม่าน', N'Phu Phaman', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'382', N'4020', N'ภูผาม่าน', N'Phu Phaman', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'383', N'4021', N'ซำสูง', N'Sam Sung', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'383', N'4021', N'ซำสูง', N'Sam Sung', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'384', N'4022', N'โคกโพธิ์ไชย', N'Khok Pho Chai', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'384', N'4022', N'โคกโพธิ์ไชย', N'Khok Pho Chai', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'385', N'4023', N'หนองนาคำ', N'Nong Na Kham', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'385', N'4023', N'หนองนาคำ', N'Nong Na Kham', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'386', N'4024', N'บ้านแฮด', N'Ban Haet', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'386', N'4024', N'บ้านแฮด', N'Ban Haet', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'387', N'4025', N'โนนศิลา', N'Non Sila', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'387', N'4025', N'โนนศิลา', N'Non Sila', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'388', N'4026', N'เวียงเก่า', N'Wiang Kao', N'29');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'388', N'4026', N'เวียงเก่า', N'Wiang Kao', N'29');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'389', N'4101', N'เมืองอุดรธานี', N'Mueang Udon Thani', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'389', N'4101', N'เมืองอุดรธานี', N'Mueang Udon Thani', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'390', N'4102', N'กุดจับ', N'Kut Chap', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'390', N'4102', N'กุดจับ', N'Kut Chap', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'391', N'4103', N'หนองวัวซอ', N'Nong Wua So', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'391', N'4103', N'หนองวัวซอ', N'Nong Wua So', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'392', N'4104', N'กุมภวาปี', N'Kumphawapi', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'392', N'4104', N'กุมภวาปี', N'Kumphawapi', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'393', N'4105', N'โนนสะอาด', N'Non Sa-at', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'393', N'4105', N'โนนสะอาด', N'Non Sa-at', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'394', N'4106', N'หนองหาน', N'Nong Saeng', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'394', N'4106', N'หนองหาน', N'Nong Saeng', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'395', N'4107', N'ทุ่งฝน', N'Thung Fon', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'395', N'4107', N'ทุ่งฝน', N'Thung Fon', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'396', N'4108', N'ไชยวาน', N'Chai Wan', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'396', N'4108', N'ไชยวาน', N'Chai Wan', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'397', N'4109', N'ศรีธาตุ', N'Si That', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'397', N'4109', N'ศรีธาตุ', N'Si That', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'398', N'4110', N'วังสามหมอ', N'Wang Sam Mo', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'398', N'4110', N'วังสามหมอ', N'Wang Sam Mo', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'399', N'4111', N'บ้านดุง', N'Ban Dung', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'399', N'4111', N'บ้านดุง', N'Ban Dung', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'400', N'4117', N'บ้านผือ', N'Ban Phue', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'400', N'4117', N'บ้านผือ', N'Ban Phue', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'401', N'4118', N'น้ำโสม', N'Nam Som', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'401', N'4118', N'น้ำโสม', N'Nam Som', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'402', N'4119', N'เพ็ญ', N'Phen', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'402', N'4119', N'เพ็ญ', N'Phen', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'403', N'4120', N'สร้างคอม', N'Sang Khom', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'403', N'4120', N'สร้างคอม', N'Sang Khom', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'404', N'4121', N'หนองแสง', N'Nong Saeng', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'404', N'4121', N'หนองแสง', N'Nong Saeng', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'405', N'4122', N'นายูง', N'Na Yung', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'405', N'4122', N'นายูง', N'Na Yung', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'406', N'4123', N'พิบูลย์รักษ์', N'Phibun Rak', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'406', N'4123', N'พิบูลย์รักษ์', N'Phibun Rak', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'407', N'4124', N'กู่แก้ว', N'Ku Kaeo', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'407', N'4124', N'กู่แก้ว', N'Ku Kaeo', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'408', N'4125', N'ประจักษ์ศิลปาคม', N'Prachaksinlapakhom', N'30');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'408', N'4125', N'ประจักษ์ศิลปาคม', N'Prachaksinlapakhom', N'30');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'409', N'4201', N'เมืองเลย', N'Mueang Loei', N'31');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'409', N'4201', N'เมืองเลย', N'Mueang Loei', N'31');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'410', N'4202', N'นาด้วง', N'Na Duang', N'31');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'410', N'4202', N'นาด้วง', N'Na Duang', N'31');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'411', N'4203', N'เชียงคาน', N'Chiang Khan', N'31');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'411', N'4203', N'เชียงคาน', N'Chiang Khan', N'31');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'412', N'4204', N'ปากชม', N'Pak Chom', N'31');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'412', N'4204', N'ปากชม', N'Pak Chom', N'31');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'413', N'4205', N'ด่านซ้าย', N'Dan Sai', N'31');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'413', N'4205', N'ด่านซ้าย', N'Dan Sai', N'31');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'414', N'4206', N'นาแห้ว', N'Na Haeo', N'31');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'414', N'4206', N'นาแห้ว', N'Na Haeo', N'31');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'415', N'4207', N'ภูเรือ', N'Phu Ruea', N'31');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'415', N'4207', N'ภูเรือ', N'Phu Ruea', N'31');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'416', N'4208', N'ท่าลี่', N'Tha Li', N'31');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'416', N'4208', N'ท่าลี่', N'Tha Li', N'31');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'417', N'4209', N'วังสะพุง', N'Wang Saphung', N'31');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'417', N'4209', N'วังสะพุง', N'Wang Saphung', N'31');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'418', N'4210', N'ภูกระดึง', N'Phu Kradueng', N'31');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'418', N'4210', N'ภูกระดึง', N'Phu Kradueng', N'31');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'419', N'4211', N'ภูหลวง', N'Phu Luang', N'31');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'419', N'4211', N'ภูหลวง', N'Phu Luang', N'31');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'420', N'4212', N'ผาขาว', N'Pha  Khao', N'31');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'420', N'4212', N'ผาขาว', N'Pha  Khao', N'31');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'421', N'4213', N'เอราวัณ', N'Erawan', N'31');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'421', N'4213', N'เอราวัณ', N'Erawan', N'31');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'422', N'4214', N'หนองหิน', N'Nong Hin', N'31');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'422', N'4214', N'หนองหิน', N'Nong Hin', N'31');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'423', N'4301', N'เมืองหนองคาย', N'Mueang Nong Khai', N'32');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'423', N'4301', N'เมืองหนองคาย', N'Mueang Nong Khai', N'32');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'424', N'4302', N'ท่าบ่อ', N'Tha Bo', N'32');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'424', N'4302', N'ท่าบ่อ', N'Tha Bo', N'32');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'425', N'4305', N'โพนพิสัย', N'Phon Phisai', N'32');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'425', N'4305', N'โพนพิสัย', N'Phon Phisai', N'32');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'426', N'4307', N'ศรีเชียงใหม่', N'Si Chiang Mai', N'32');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'426', N'4307', N'ศรีเชียงใหม่', N'Si Chiang Mai', N'32');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'427', N'4308', N'สังคม', N'Sangkhom', N'32');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'427', N'4308', N'สังคม', N'Sangkhom', N'32');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'428', N'4314', N'สระใคร', N'Sakhrai', N'32');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'428', N'4314', N'สระใคร', N'Sakhrai', N'32');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'429', N'4315', N'เฝ้าไร่', N'Fao Rai', N'32');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'429', N'4315', N'เฝ้าไร่', N'Fao Rai', N'32');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'430', N'4316', N'รัตนวาปี', N'Rattanawapi', N'32');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'430', N'4316', N'รัตนวาปี', N'Rattanawapi', N'32');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'431', N'4317', N'โพธิ์ตาก', N'Pho Tak', N'32');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'431', N'4317', N'โพธิ์ตาก', N'Pho Tak', N'32');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'432', N'4401', N'เมืองมหาสารคาม', N'Mueang Maha Sarakham', N'33');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'432', N'4401', N'เมืองมหาสารคาม', N'Mueang Maha Sarakham', N'33');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'433', N'4402', N'แกดำ', N'Kae Dam', N'33');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'433', N'4402', N'แกดำ', N'Kae Dam', N'33');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'434', N'4403', N'โกสุมพิสัย', N'Kosum Phisai', N'33');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'434', N'4403', N'โกสุมพิสัย', N'Kosum Phisai', N'33');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'435', N'4404', N'กันทรวิชัย', N'Kantharawichai', N'33');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'435', N'4404', N'กันทรวิชัย', N'Kantharawichai', N'33');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'436', N'4405', N'เชียงยืน', N'Chiang Yuen', N'33');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'436', N'4405', N'เชียงยืน', N'Chiang Yuen', N'33');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'437', N'4406', N'บรบือ', N'Borabue', N'33');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'437', N'4406', N'บรบือ', N'Borabue', N'33');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'438', N'4407', N'นาเชือก', N'Na Chueak', N'33');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'438', N'4407', N'นาเชือก', N'Na Chueak', N'33');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'439', N'4408', N'พยัคฆภูมิพิสัย', N'Phayakkhaphum Phisai', N'33');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'439', N'4408', N'พยัคฆภูมิพิสัย', N'Phayakkhaphum Phisai', N'33');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'440', N'4409', N'วาปีปทุม', N'Wapi Pathum', N'33');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'440', N'4409', N'วาปีปทุม', N'Wapi Pathum', N'33');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'441', N'4410', N'นาดูน', N'Na Dun', N'33');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'441', N'4410', N'นาดูน', N'Na Dun', N'33');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'442', N'4411', N'ยางสีสุราช', N'Yang Sisurat', N'33');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'442', N'4411', N'ยางสีสุราช', N'Yang Sisurat', N'33');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'443', N'4412', N'กุดรัง', N'Kut Rang', N'33');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'443', N'4412', N'กุดรัง', N'Kut Rang', N'33');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'444', N'4413', N'ชื่นชม', N'Chuen Chom', N'33');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'444', N'4413', N'ชื่นชม', N'Chuen Chom', N'33');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'445', N'4501', N'เมืองร้อยเอ็ด', N'Mueang Roi Et', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'445', N'4501', N'เมืองร้อยเอ็ด', N'Mueang Roi Et', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'446', N'4502', N'เกษตรวิสัย', N'Kaset Wisai', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'446', N'4502', N'เกษตรวิสัย', N'Kaset Wisai', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'447', N'4503', N'ปทุมรัตต์', N'Pathum Rat', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'447', N'4503', N'ปทุมรัตต์', N'Pathum Rat', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'448', N'4504', N'จตุรพักตรพิมาน', N'Chaturaphak Phiman', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'448', N'4504', N'จตุรพักตรพิมาน', N'Chaturaphak Phiman', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'449', N'4505', N'ธวัชบุรี', N'Thawat Buri', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'449', N'4505', N'ธวัชบุรี', N'Thawat Buri', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'450', N'4506', N'พนมไพร', N'Phanom Phrai', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'450', N'4506', N'พนมไพร', N'Phanom Phrai', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'451', N'4507', N'โพนทอง', N'Phon Thong', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'451', N'4507', N'โพนทอง', N'Phon Thong', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'452', N'4508', N'โพธิ์ชัย', N'Pho Chai', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'452', N'4508', N'โพธิ์ชัย', N'Pho Chai', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'453', N'4509', N'หนองพอก', N'Nong Phok', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'453', N'4509', N'หนองพอก', N'Nong Phok', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'454', N'4510', N'เสลภูมิ', N'Selaphum', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'454', N'4510', N'เสลภูมิ', N'Selaphum', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'455', N'4511', N'สุวรรณภูมิ', N'Suwannaphum', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'455', N'4511', N'สุวรรณภูมิ', N'Suwannaphum', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'456', N'4512', N'เมืองสรวง', N'Mueang Suang', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'456', N'4512', N'เมืองสรวง', N'Mueang Suang', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'457', N'4513', N'โพนทราย', N'Phon Sai', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'457', N'4513', N'โพนทราย', N'Phon Sai', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'458', N'4514', N'อาจสามารถ', N'At Samat', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'458', N'4514', N'อาจสามารถ', N'At Samat', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'459', N'4515', N'เมยวดี', N'Moei Wadi', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'459', N'4515', N'เมยวดี', N'Moei Wadi', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'460', N'4516', N'ศรีสมเด็จ', N'Si Somdet', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'460', N'4516', N'ศรีสมเด็จ', N'Si Somdet', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'461', N'4517', N'จังหาร', N'Changhan', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'461', N'4517', N'จังหาร', N'Changhan', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'462', N'4518', N'เชียงขวัญ', N'Chiang Khwan', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'462', N'4518', N'เชียงขวัญ', N'Chiang Khwan', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'463', N'4519', N'หนองฮี', N'Nong Hi', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'463', N'4519', N'หนองฮี', N'Nong Hi', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'464', N'4520', N'ทุ่งเขาหลวง', N'Thung Khao Luang', N'34');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'464', N'4520', N'ทุ่งเขาหลวง', N'Thung Khao Luang', N'34');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'465', N'4601', N'เมืองกาฬสินธุ์', N'Mueang Kalasin', N'35');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'465', N'4601', N'เมืองกาฬสินธุ์', N'Mueang Kalasin', N'35');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'466', N'4602', N'นามน', N'Na Mon', N'35');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'466', N'4602', N'นามน', N'Na Mon', N'35');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'467', N'4603', N'กมลาไสย', N'Kamalasai', N'35');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'467', N'4603', N'กมลาไสย', N'Kamalasai', N'35');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'468', N'4604', N'ร่องคำ', N'Rong Kham', N'35');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'468', N'4604', N'ร่องคำ', N'Rong Kham', N'35');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'469', N'4605', N'กุฉินารายณ์', N'Kuchinarai', N'35');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'469', N'4605', N'กุฉินารายณ์', N'Kuchinarai', N'35');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'470', N'4606', N'เขาวง', N'Khao Wong', N'35');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'470', N'4606', N'เขาวง', N'Khao Wong', N'35');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'471', N'4607', N'ยางตลาด', N'Yang Talat', N'35');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'471', N'4607', N'ยางตลาด', N'Yang Talat', N'35');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'472', N'4608', N'ห้วยเม็ก', N'Huai Mek', N'35');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'472', N'4608', N'ห้วยเม็ก', N'Huai Mek', N'35');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'473', N'4609', N'สหัสขันธ์', N'Sahatsakhan', N'35');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'473', N'4609', N'สหัสขันธ์', N'Sahatsakhan', N'35');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'474', N'4610', N'คำม่วง', N'Kham Muang', N'35');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'474', N'4610', N'คำม่วง', N'Kham Muang', N'35');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'475', N'4611', N'ท่าคันโท', N'Tha Khantho', N'35');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'475', N'4611', N'ท่าคันโท', N'Tha Khantho', N'35');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'476', N'4612', N'หนองกุงศรี', N'Nong Kung Si', N'35');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'476', N'4612', N'หนองกุงศรี', N'Nong Kung Si', N'35');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'477', N'4613', N'สมเด็จ', N'Somdet', N'35');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'477', N'4613', N'สมเด็จ', N'Somdet', N'35');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'478', N'4614', N'ห้วยผึ้ง', N'Huai Phueng', N'35');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'478', N'4614', N'ห้วยผึ้ง', N'Huai Phueng', N'35');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'479', N'4615', N'สามชัย', N'Sam Chai', N'35');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'479', N'4615', N'สามชัย', N'Sam Chai', N'35');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'480', N'4616', N'นาคู', N'Na Khu', N'35');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'480', N'4616', N'นาคู', N'Na Khu', N'35');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'481', N'4617', N'ดอนจาน', N'Don Chan', N'35');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'481', N'4617', N'ดอนจาน', N'Don Chan', N'35');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'482', N'4618', N'ฆ้องชัย', N'Khong Chai', N'35');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'482', N'4618', N'ฆ้องชัย', N'Khong Chai', N'35');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'483', N'4701', N'เมืองสกลนคร', N'Mueang Sakon Nakhon', N'36');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'483', N'4701', N'เมืองสกลนคร', N'Mueang Sakon Nakhon', N'36');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'484', N'4702', N'กุสุมาลย์', N'Kusuman', N'36');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'484', N'4702', N'กุสุมาลย์', N'Kusuman', N'36');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'485', N'4703', N'กุดบาก', N'Kut Bak', N'36');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'485', N'4703', N'กุดบาก', N'Kut Bak', N'36');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'486', N'4704', N'พรรณานิคม', N'Phanna Nikhom', N'36');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'486', N'4704', N'พรรณานิคม', N'Phanna Nikhom', N'36');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'487', N'4705', N'พังโคน', N'Phanh khon', N'36');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'487', N'4705', N'พังโคน', N'Phanh khon', N'36');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'488', N'4706', N'วาริชภูมิ', N'Waritchaphum', N'36');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'488', N'4706', N'วาริชภูมิ', N'Waritchaphum', N'36');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'489', N'4707', N'นิคมน้ำอูน', N'Nikhom Nam un', N'36');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'489', N'4707', N'นิคมน้ำอูน', N'Nikhom Nam un', N'36');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'490', N'4708', N'วานรนิวาส', N'Wanon Niwat', N'36');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'490', N'4708', N'วานรนิวาส', N'Wanon Niwat', N'36');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'491', N'4709', N'คำตากล้า', N'Kham Ta Kla', N'36');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'491', N'4709', N'คำตากล้า', N'Kham Ta Kla', N'36');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'492', N'4710', N'บ้านม่วง', N'Ban Muang', N'36');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'492', N'4710', N'บ้านม่วง', N'Ban Muang', N'36');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'493', N'4711', N'อากาศอำนวย', N'Akat Amnuai', N'36');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'493', N'4711', N'อากาศอำนวย', N'Akat Amnuai', N'36');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'494', N'4712', N'สว่างแดนดิน', N'Sawang Daen Din', N'36');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'494', N'4712', N'สว่างแดนดิน', N'Sawang Daen Din', N'36');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'495', N'4713', N'ส่องดาว', N'Song Dao', N'36');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'495', N'4713', N'ส่องดาว', N'Song Dao', N'36');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'496', N'4714', N'เต่างอย', N'Tao Ngoi', N'36');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'496', N'4714', N'เต่างอย', N'Tao Ngoi', N'36');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'497', N'4715', N'โคกศรีสุพรรณ', N'Khok Si Suphan', N'36');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'497', N'4715', N'โคกศรีสุพรรณ', N'Khok Si Suphan', N'36');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'498', N'4716', N'เจริญศิลป์', N'Charoen Sin', N'36');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'498', N'4716', N'เจริญศิลป์', N'Charoen Sin', N'36');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'499', N'4717', N'โพนนาแก้ว', N'Phon Na Kaeo', N'36');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'499', N'4717', N'โพนนาแก้ว', N'Phon Na Kaeo', N'36');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'500', N'4718', N'ภูพาน', N'Phu Phan', N'36');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'500', N'4718', N'ภูพาน', N'Phu Phan', N'36');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'501', N'4801', N'เมืองนครพนม', N'Mueang Nakhon Phanom', N'37');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'501', N'4801', N'เมืองนครพนม', N'Mueang Nakhon Phanom', N'37');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'502', N'4802', N'ปลาปาก', N'Pla Pak', N'37');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'502', N'4802', N'ปลาปาก', N'Pla Pak', N'37');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'503', N'4803', N'ท่าอุเทน', N'Tha Uthen', N'37');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'503', N'4803', N'ท่าอุเทน', N'Tha Uthen', N'37');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'504', N'4804', N'บ้านแพง', N'Ban Phaeng', N'37');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'504', N'4804', N'บ้านแพง', N'Ban Phaeng', N'37');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'505', N'4805', N'ธาตุพนม', N'That Phanom', N'37');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'505', N'4805', N'ธาตุพนม', N'That Phanom', N'37');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'506', N'4806', N'เรณูนคร', N'Renu Nakhon', N'37');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'506', N'4806', N'เรณูนคร', N'Renu Nakhon', N'37');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'507', N'4807', N'นาแก', N'Na Kae', N'37');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'507', N'4807', N'นาแก', N'Na Kae', N'37');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'508', N'4808', N'ศรีสงคราม', N'Si Songkhram', N'37');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'508', N'4808', N'ศรีสงคราม', N'Si Songkhram', N'37');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'509', N'4809', N'นาหว้า', N'Na Wa', N'37');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'509', N'4809', N'นาหว้า', N'Na Wa', N'37');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'510', N'4810', N'โพนสวรรค์', N'Phon Sawan', N'37');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'510', N'4810', N'โพนสวรรค์', N'Phon Sawan', N'37');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'511', N'4811', N'นาทม', N'Na Thom', N'37');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'511', N'4811', N'นาทม', N'Na Thom', N'37');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'512', N'4812', N'วังยาง', N'Wang Yang', N'37');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'512', N'4812', N'วังยาง', N'Wang Yang', N'37');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'513', N'4901', N'เมืองมุกดาหาร', N'Mueang Mukdahan', N'38');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'513', N'4901', N'เมืองมุกดาหาร', N'Mueang Mukdahan', N'38');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'514', N'4902', N'นิคมคำสร้อย', N'Nikhom Kham Soi', N'38');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'514', N'4902', N'นิคมคำสร้อย', N'Nikhom Kham Soi', N'38');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'515', N'4903', N'ดอนตาล', N'Don Tan', N'38');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'515', N'4903', N'ดอนตาล', N'Don Tan', N'38');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'516', N'4904', N'ดงหลวง', N'Don Tan', N'38');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'516', N'4904', N'ดงหลวง', N'Don Tan', N'38');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'517', N'4905', N'คำชะอี', N'Khamcha-i', N'38');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'517', N'4905', N'คำชะอี', N'Khamcha-i', N'38');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'518', N'4906', N'ว่านใหญ่', N'Wan Yai', N'38');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'518', N'4906', N'ว่านใหญ่', N'Wan Yai', N'38');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'519', N'4907', N'หนองสูง', N'Nong Sung', N'38');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'519', N'4907', N'หนองสูง', N'Nong Sung', N'38');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'520', N'5001', N'เมืองเชียงใหม่', N'Mueang Chiang Mai', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'520', N'5001', N'เมืองเชียงใหม่', N'Mueang Chiang Mai', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'521', N'5002', N'จอมทอง', N'Chom Thong', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'521', N'5002', N'จอมทอง', N'Chom Thong', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'522', N'5003', N'แม่แจ่ม', N'Mae Chaem', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'522', N'5003', N'แม่แจ่ม', N'Mae Chaem', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'523', N'5004', N'เชียงดาว', N'Chiang Dao', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'523', N'5004', N'เชียงดาว', N'Chiang Dao', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'524', N'5005', N'ดอยสะเก็ด', N'Doi Saket', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'524', N'5005', N'ดอยสะเก็ด', N'Doi Saket', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'525', N'5006', N'แม่แตง', N'Mae Taeng', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'525', N'5006', N'แม่แตง', N'Mae Taeng', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'526', N'5007', N'แม่ริม', N'Mae Rim', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'526', N'5007', N'แม่ริม', N'Mae Rim', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'527', N'5008', N'สะเมิง', N'Samoeng', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'527', N'5008', N'สะเมิง', N'Samoeng', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'528', N'5009', N'ฝาง', N'Fang', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'528', N'5009', N'ฝาง', N'Fang', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'529', N'5010', N'แม่อาย', N'Mae Ai', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'529', N'5010', N'แม่อาย', N'Mae Ai', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'530', N'5011', N'พร้าว', N'Phrao', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'530', N'5011', N'พร้าว', N'Phrao', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'531', N'5012', N'สันป่าตอง', N'San Pa Tong', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'531', N'5012', N'สันป่าตอง', N'San Pa Tong', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'532', N'5013', N'สันกำแพง', N'San Kamphaeng', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'532', N'5013', N'สันกำแพง', N'San Kamphaeng', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'533', N'5014', N'สันทราย', N'San Sai', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'533', N'5014', N'สันทราย', N'San Sai', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'534', N'5015', N'หางดง', N'Hang Dong', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'534', N'5015', N'หางดง', N'Hang Dong', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'535', N'5016', N'ฮอด', N'Hot', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'535', N'5016', N'ฮอด', N'Hot', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'536', N'5017', N'ดอยเต่า', N'Doi Tao', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'536', N'5017', N'ดอยเต่า', N'Doi Tao', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'537', N'5018', N'อมก๋อย', N'Omkoi', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'537', N'5018', N'อมก๋อย', N'Omkoi', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'538', N'5019', N'สารภี', N'Saraphi', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'538', N'5019', N'สารภี', N'Saraphi', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'539', N'5020', N'เวียงแหง', N'Wiang Haeng', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'539', N'5020', N'เวียงแหง', N'Wiang Haeng', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'540', N'5021', N'ไชยปราการ', N'Chai Prakan', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'540', N'5021', N'ไชยปราการ', N'Chai Prakan', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'541', N'5022', N'แม่วาง', N'Mae Wang', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'541', N'5022', N'แม่วาง', N'Mae Wang', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'542', N'5023', N'แม่ออน', N'Mae On', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'542', N'5023', N'แม่ออน', N'Mae On', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'543', N'5024', N'ดอยหล่อ', N'Doi Lo', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'543', N'5024', N'ดอยหล่อ', N'Doi Lo', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'544', N'5025', N'กัลยาณิวัฒนา', N'Kanlayaniwatthana', N'39');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'544', N'5025', N'กัลยาณิวัฒนา', N'Kanlayaniwatthana', N'39');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'545', N'5101', N'เมืองลำพูน', N'Mueang Lamphun', N'40');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'545', N'5101', N'เมืองลำพูน', N'Mueang Lamphun', N'40');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'546', N'5102', N'แม่ทา', N'Mae Tha', N'40');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'546', N'5102', N'แม่ทา', N'Mae Tha', N'40');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'547', N'5103', N'บ้านโฮ่ง', N'Ban Hong', N'40');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'547', N'5103', N'บ้านโฮ่ง', N'Ban Hong', N'40');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'548', N'5104', N'ลี้', N'Li', N'40');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'548', N'5104', N'ลี้', N'Li', N'40');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'549', N'5105', N'ทุ่งหัวช้าง', N'Thung Hua Chang', N'40');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'549', N'5105', N'ทุ่งหัวช้าง', N'Thung Hua Chang', N'40');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'550', N'5106', N'ป่าซาง', N'Pa Sang', N'40');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'550', N'5106', N'ป่าซาง', N'Pa Sang', N'40');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'551', N'5107', N'บ้านธิ', N'Ban Thi', N'40');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'551', N'5107', N'บ้านธิ', N'Ban Thi', N'40');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'552', N'5108', N'เวียงหนองล่อง', N'Wiang Nong Long', N'40');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'552', N'5108', N'เวียงหนองล่อง', N'Wiang Nong Long', N'40');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'553', N'5201', N'เมืองลำปาง', N'Mueang Lampang', N'41');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'553', N'5201', N'เมืองลำปาง', N'Mueang Lampang', N'41');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'554', N'5202', N'แม่เมาะ', N'Mae Mo', N'41');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'554', N'5202', N'แม่เมาะ', N'Mae Mo', N'41');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'555', N'5203', N'เกาะคา', N'Ko kha', N'41');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'555', N'5203', N'เกาะคา', N'Ko kha', N'41');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'556', N'5204', N'เสริมงาม', N'Soem Ngam', N'41');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'556', N'5204', N'เสริมงาม', N'Soem Ngam', N'41');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'557', N'5205', N'งาว', N'Ngao', N'41');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'557', N'5205', N'งาว', N'Ngao', N'41');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'558', N'5206', N'แจ้ห่ม', N'Chae Hom', N'41');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'558', N'5206', N'แจ้ห่ม', N'Chae Hom', N'41');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'559', N'5207', N'วังเหนือ', N'Wang Nuea', N'41');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'559', N'5207', N'วังเหนือ', N'Wang Nuea', N'41');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'560', N'5208', N'เถิน', N'Thoen', N'41');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'560', N'5208', N'เถิน', N'Thoen', N'41');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'561', N'5209', N'แม่พริก', N'Mae Phrik', N'41');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'561', N'5209', N'แม่พริก', N'Mae Phrik', N'41');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'562', N'5210', N'แม่ทะ', N'Mae Tha', N'41');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'562', N'5210', N'แม่ทะ', N'Mae Tha', N'41');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'563', N'5211', N'สบปราบ', N'Sop Prap', N'41');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'563', N'5211', N'สบปราบ', N'Sop Prap', N'41');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'564', N'5212', N'ห้างฉัตร', N'Hang Chat', N'41');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'564', N'5212', N'ห้างฉัตร', N'Hang Chat', N'41');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'565', N'5213', N'เมืองปาน', N'Mueang Pan', N'41');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'565', N'5213', N'เมืองปาน', N'Mueang Pan', N'41');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'566', N'5301', N'เมืองอุตรดิตถ์', N'Mueang Uttaradit', N'42');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'566', N'5301', N'เมืองอุตรดิตถ์', N'Mueang Uttaradit', N'42');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'567', N'5302', N'ตรอน', N'Tron', N'42');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'567', N'5302', N'ตรอน', N'Tron', N'42');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'568', N'5303', N'ท่าปลา', N'Tha Pla', N'42');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'568', N'5303', N'ท่าปลา', N'Tha Pla', N'42');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'569', N'5304', N'น้ำปาด', N'Nam Pat', N'42');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'569', N'5304', N'น้ำปาด', N'Nam Pat', N'42');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'570', N'5305', N'ฟากท่า', N'Fak Tha', N'42');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'570', N'5305', N'ฟากท่า', N'Fak Tha', N'42');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'571', N'5306', N'บ้านโคก', N'Ban Khok', N'42');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'571', N'5306', N'บ้านโคก', N'Ban Khok', N'42');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'572', N'5307', N'พิชัย', N'Phichai', N'42');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'572', N'5307', N'พิชัย', N'Phichai', N'42');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'573', N'5308', N'ลับแล', N'Laplae', N'42');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'573', N'5308', N'ลับแล', N'Laplae', N'42');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'574', N'5309', N'ทองแสนขัน', N'Thong Saen Khan', N'42');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'574', N'5309', N'ทองแสนขัน', N'Thong Saen Khan', N'42');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'575', N'5401', N'เมืองแพร่', N'Mueang Phrae', N'43');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'575', N'5401', N'เมืองแพร่', N'Mueang Phrae', N'43');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'576', N'5402', N'ร้องกวาง', N'Mueang Phrae', N'43');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'576', N'5402', N'ร้องกวาง', N'Mueang Phrae', N'43');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'577', N'5403', N'ลอง', N'Long', N'43');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'577', N'5403', N'ลอง', N'Long', N'43');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'578', N'5404', N'สูงเม่น', N'Sung Men', N'43');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'578', N'5404', N'สูงเม่น', N'Sung Men', N'43');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'579', N'5405', N'เด่นชัย', N'Den Chai', N'43');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'579', N'5405', N'เด่นชัย', N'Den Chai', N'43');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'580', N'5406', N'สอง', N'Song', N'43');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'580', N'5406', N'สอง', N'Song', N'43');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'581', N'5407', N'วังชิ้น', N'Wang Chin', N'43');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'581', N'5407', N'วังชิ้น', N'Wang Chin', N'43');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'582', N'5408', N'หนองม่วงไข่', N'Nong Muang Khai', N'43');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'582', N'5408', N'หนองม่วงไข่', N'Nong Muang Khai', N'43');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'583', N'5501', N'เมืองน่าน', N'Mueang Nan', N'44');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'583', N'5501', N'เมืองน่าน', N'Mueang Nan', N'44');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'584', N'5502', N'แม่จริม', N'Mae Charim', N'44');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'584', N'5502', N'แม่จริม', N'Mae Charim', N'44');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'585', N'5503', N'บ้านหลวง', N'Ban Luang', N'44');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'585', N'5503', N'บ้านหลวง', N'Ban Luang', N'44');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'586', N'5504', N'นาน้อย', N'Na Noi', N'44');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'586', N'5504', N'นาน้อย', N'Na Noi', N'44');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'587', N'5505', N'ปัว', N'Pua', N'44');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'587', N'5505', N'ปัว', N'Pua', N'44');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'588', N'5506', N'ท่าวังผา', N'Tha Wang Pha', N'44');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'588', N'5506', N'ท่าวังผา', N'Tha Wang Pha', N'44');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'589', N'5507', N'เวียงสา', N'Wiang Sa', N'44');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'589', N'5507', N'เวียงสา', N'Wiang Sa', N'44');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'590', N'5508', N'ทุ่งช้าง', N'Thung Chang', N'44');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'590', N'5508', N'ทุ่งช้าง', N'Thung Chang', N'44');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'591', N'5509', N'เชียงกลาง', N'Chiang Klang', N'44');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'591', N'5509', N'เชียงกลาง', N'Chiang Klang', N'44');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'592', N'5510', N'นาหมื่น', N'Na Muen', N'44');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'592', N'5510', N'นาหมื่น', N'Na Muen', N'44');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'593', N'5511', N'สันติสุข', N'Santi Suk', N'44');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'593', N'5511', N'สันติสุข', N'Santi Suk', N'44');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'594', N'5512', N'บ่อเกลือ', N'Bo Kluea', N'44');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'594', N'5512', N'บ่อเกลือ', N'Bo Kluea', N'44');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'595', N'5513', N'สองแคว', N'Song Khwae', N'44');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'595', N'5513', N'สองแคว', N'Song Khwae', N'44');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'596', N'5514', N'ภูเพียง', N'Phu Phiang', N'44');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'596', N'5514', N'ภูเพียง', N'Phu Phiang', N'44');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'597', N'5515', N'เฉลิมพระเกียรติ', N'Chaloem Phra Kiet', N'44');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'597', N'5515', N'เฉลิมพระเกียรติ', N'Chaloem Phra Kiet', N'44');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'598', N'5601', N'เมืองพะเยา', N'Mueang Phayao', N'45');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'598', N'5601', N'เมืองพะเยา', N'Mueang Phayao', N'45');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'599', N'5602', N'จุน', N'Mueang Phayao', N'45');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'599', N'5602', N'จุน', N'Mueang Phayao', N'45');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'600', N'5603', N'เชียงคำ', N'Mueang Phayao', N'45');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'600', N'5603', N'เชียงคำ', N'Mueang Phayao', N'45');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'601', N'5604', N'เชียงม่วน', N'Mueang Phayao', N'45');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'601', N'5604', N'เชียงม่วน', N'Mueang Phayao', N'45');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'602', N'5605', N'ดอกคำใต้', N'Mueang Phayao', N'45');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'602', N'5605', N'ดอกคำใต้', N'Mueang Phayao', N'45');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'603', N'5606', N'ปง', N'Mueang Phayao', N'45');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'603', N'5606', N'ปง', N'Mueang Phayao', N'45');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'604', N'5607', N'แม่ใจ', N'Mueang Phayao', N'45');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'604', N'5607', N'แม่ใจ', N'Mueang Phayao', N'45');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'605', N'5608', N'ภูซาง', N'Mueang Phayao', N'45');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'605', N'5608', N'ภูซาง', N'Mueang Phayao', N'45');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'606', N'5609', N'ภูกามยาว', N'Mueang Phayao', N'45');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'606', N'5609', N'ภูกามยาว', N'Mueang Phayao', N'45');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'607', N'5701', N'เมืองเชียงราย', N'Mueang Chiang Rai', N'46');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'607', N'5701', N'เมืองเชียงราย', N'Mueang Chiang Rai', N'46');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'608', N'5702', N'เวียงชัย', N'Wiang Chai', N'46');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'608', N'5702', N'เวียงชัย', N'Wiang Chai', N'46');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'609', N'5703', N'เชียงของ', N'Chiang Khong', N'46');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'609', N'5703', N'เชียงของ', N'Chiang Khong', N'46');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'610', N'5704', N'เทิง', N'Thoeng', N'46');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'610', N'5704', N'เทิง', N'Thoeng', N'46');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'611', N'5705', N'พาน', N'Phan', N'46');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'611', N'5705', N'พาน', N'Phan', N'46');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'612', N'5706', N'ป่าแดด', N'Pa Daet', N'46');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'612', N'5706', N'ป่าแดด', N'Pa Daet', N'46');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'613', N'5707', N'แม่จัน', N'Mae Chan', N'46');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'613', N'5707', N'แม่จัน', N'Mae Chan', N'46');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'614', N'5708', N'เชียงแสน', N'Chiang Saen', N'46');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'614', N'5708', N'เชียงแสน', N'Chiang Saen', N'46');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'615', N'5709', N'แม่สาย', N'Mae Sai', N'46');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'615', N'5709', N'แม่สาย', N'Mae Sai', N'46');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'616', N'5710', N'แม่สรวย', N'Mae Suai', N'46');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'616', N'5710', N'แม่สรวย', N'Mae Suai', N'46');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'617', N'5711', N'เวียงป่าเป้า', N'Wiang Pa Pao', N'46');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'617', N'5711', N'เวียงป่าเป้า', N'Wiang Pa Pao', N'46');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'618', N'5712', N'พญาเม็งราย', N'Phaya Mengrai', N'46');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'618', N'5712', N'พญาเม็งราย', N'Phaya Mengrai', N'46');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'619', N'5713', N'เวียงแก่น', N'Wiang Kaen', N'46');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'619', N'5713', N'เวียงแก่น', N'Wiang Kaen', N'46');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'620', N'5714', N'ขุนตาล', N'Khun Tan', N'46');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'620', N'5714', N'ขุนตาล', N'Khun Tan', N'46');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'621', N'5715', N'แม่ฟ้าหลวง', N'Mae Fa Luang', N'46');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'621', N'5715', N'แม่ฟ้าหลวง', N'Mae Fa Luang', N'46');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'622', N'5716', N'แม่ลาว', N'Mae Lao', N'46');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'622', N'5716', N'แม่ลาว', N'Mae Lao', N'46');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'623', N'5717', N'เวียงเชียงรุ้ง', N'Wiang Chiang Rung', N'46');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'623', N'5717', N'เวียงเชียงรุ้ง', N'Wiang Chiang Rung', N'46');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'624', N'5718', N'ดอยหลวง', N'Doi Luang', N'46');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'624', N'5718', N'ดอยหลวง', N'Doi Luang', N'46');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'625', N'5801', N'เมืองแม่ฮ่องสอน', N'Mueang Mae Hong Son', N'47');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'625', N'5801', N'เมืองแม่ฮ่องสอน', N'Mueang Mae Hong Son', N'47');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'626', N'5802', N'ขุนยวม', N'Khun Yuam', N'47');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'626', N'5802', N'ขุนยวม', N'Khun Yuam', N'47');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'627', N'5803', N'ปาย', N'Pai', N'47');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'627', N'5803', N'ปาย', N'Pai', N'47');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'628', N'5804', N'แม่สะเรียง', N'Mae Sariang', N'47');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'628', N'5804', N'แม่สะเรียง', N'Mae Sariang', N'47');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'629', N'5805', N'แม่ลาน้อย', N'Mae La Noi', N'47');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'629', N'5805', N'แม่ลาน้อย', N'Mae La Noi', N'47');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'630', N'5806', N'สบเมย', N'Sop Moei', N'47');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'630', N'5806', N'สบเมย', N'Sop Moei', N'47');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'631', N'5807', N'ปางมะผ้า', N'Pang Mapha', N'47');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'631', N'5807', N'ปางมะผ้า', N'Pang Mapha', N'47');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'632', N'6001', N'เมืองนครสวรรค์', N'Mueang Nakhon Sawan', N'48');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'632', N'6001', N'เมืองนครสวรรค์', N'Mueang Nakhon Sawan', N'48');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'633', N'6002', N'โกรกพระ', N'Krok Phra', N'48');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'633', N'6002', N'โกรกพระ', N'Krok Phra', N'48');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'634', N'6003', N'ชุมแสง', N'Chum Saeng', N'48');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'634', N'6003', N'ชุมแสง', N'Chum Saeng', N'48');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'635', N'6004', N'หนองบัว', N'Nong Bua', N'48');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'635', N'6004', N'หนองบัว', N'Nong Bua', N'48');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'636', N'6005', N'บรรพตพิสัย', N'Banphot Phisai', N'48');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'636', N'6005', N'บรรพตพิสัย', N'Banphot Phisai', N'48');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'637', N'6006', N'เก้าเลี้ยว', N'Kao Liao', N'48');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'637', N'6006', N'เก้าเลี้ยว', N'Kao Liao', N'48');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'638', N'6007', N'ตาคลี', N'Takhli', N'48');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'638', N'6007', N'ตาคลี', N'Takhli', N'48');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'639', N'6008', N'ท่าตะโก', N'Tha Tako', N'48');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'639', N'6008', N'ท่าตะโก', N'Tha Tako', N'48');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'640', N'6009', N'ไพศาลี', N'Phaisali', N'48');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'640', N'6009', N'ไพศาลี', N'Phaisali', N'48');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'641', N'6010', N'พยุหะคีรี', N'Phayuha Hkiri', N'48');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'641', N'6010', N'พยุหะคีรี', N'Phayuha Hkiri', N'48');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'642', N'6011', N'ลาดยาว', N'Lat Yao', N'48');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'642', N'6011', N'ลาดยาว', N'Lat Yao', N'48');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'643', N'6012', N'ตากฟ้า', N'Tak Fa', N'48');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'643', N'6012', N'ตากฟ้า', N'Tak Fa', N'48');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'644', N'6013', N'แม่วงก์', N'Mae Wong', N'48');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'644', N'6013', N'แม่วงก์', N'Mae Wong', N'48');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'645', N'6014', N'แม่เปิน', N'Mae Pern', N'48');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'645', N'6014', N'แม่เปิน', N'Mae Pern', N'48');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'646', N'6015', N'ชุมตาบง', N'Chum Ta Bong', N'48');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'646', N'6015', N'ชุมตาบง', N'Chum Ta Bong', N'48');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'647', N'6101', N'เมืองอุทัยธานี', N'Mueang Uthai Thani', N'49');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'647', N'6101', N'เมืองอุทัยธานี', N'Mueang Uthai Thani', N'49');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'648', N'6102', N'ทัพทัน', N'Thap Than', N'49');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'648', N'6102', N'ทัพทัน', N'Thap Than', N'49');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'649', N'6103', N'สว่างอารมณ์', N'Sawang Arom', N'49');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'649', N'6103', N'สว่างอารมณ์', N'Sawang Arom', N'49');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'650', N'6104', N'หนองฉาง', N'Nong Chang', N'49');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'650', N'6104', N'หนองฉาง', N'Nong Chang', N'49');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'651', N'6105', N'หนองขาหย่าง', N'Nong Khayang', N'49');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'651', N'6105', N'หนองขาหย่าง', N'Nong Khayang', N'49');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'652', N'6106', N'บ้านไร่', N'Ban Rai', N'49');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'652', N'6106', N'บ้านไร่', N'Ban Rai', N'49');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'653', N'6107', N'ลานสัก', N'Lan Sak', N'49');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'653', N'6107', N'ลานสัก', N'Lan Sak', N'49');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'654', N'6108', N'ห้วยคต', N'Huai Khot', N'49');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'654', N'6108', N'ห้วยคต', N'Huai Khot', N'49');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'655', N'6201', N'เมืองกำแพงเพชร', N'Mueang Kamphaeng Phet', N'50');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'655', N'6201', N'เมืองกำแพงเพชร', N'Mueang Kamphaeng Phet', N'50');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'656', N'6202', N'ไทรงาม', N'Sai Ngam', N'50');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'656', N'6202', N'ไทรงาม', N'Sai Ngam', N'50');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'657', N'6203', N'คลองลาน', N'Khlong Lan', N'50');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'657', N'6203', N'คลองลาน', N'Khlong Lan', N'50');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'658', N'6204', N'ขาณุวรลักษบุรี', N'Khanu Woralaksaburi', N'50');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'658', N'6204', N'ขาณุวรลักษบุรี', N'Khanu Woralaksaburi', N'50');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'659', N'6205', N'คลองขลุง', N'Khlong Khlung', N'50');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'659', N'6205', N'คลองขลุง', N'Khlong Khlung', N'50');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'660', N'6206', N'พรานกระต่าย', N'Phran Kratai', N'50');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'660', N'6206', N'พรานกระต่าย', N'Phran Kratai', N'50');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'661', N'6207', N'ลานกระบือ', N'Lan Krabue', N'50');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'661', N'6207', N'ลานกระบือ', N'Lan Krabue', N'50');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'662', N'6208', N'ทรายทองวัฒนา', N'Sai Thong Watthana', N'50');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'662', N'6208', N'ทรายทองวัฒนา', N'Sai Thong Watthana', N'50');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'663', N'6209', N'ปางศิลาทอง', N'Pang Sila Thong', N'50');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'663', N'6209', N'ปางศิลาทอง', N'Pang Sila Thong', N'50');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'664', N'6210', N'บึงสามัคคี', N'Bueng Samakkhi', N'50');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'664', N'6210', N'บึงสามัคคี', N'Bueng Samakkhi', N'50');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'665', N'6211', N'โกสัมพีนคร', N'Kosamphi Nakhon', N'50');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'665', N'6211', N'โกสัมพีนคร', N'Kosamphi Nakhon', N'50');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'666', N'6301', N'เมืองตาก', N'Mueang Tak', N'51');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'666', N'6301', N'เมืองตาก', N'Mueang Tak', N'51');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'667', N'6302', N'บ้านตาก', N'Ban Tak', N'51');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'667', N'6302', N'บ้านตาก', N'Ban Tak', N'51');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'668', N'6303', N'สามเงา', N'Sam Ngao', N'51');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'668', N'6303', N'สามเงา', N'Sam Ngao', N'51');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'669', N'6304', N'แม่ระมาด', N'Mae Ramat', N'51');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'669', N'6304', N'แม่ระมาด', N'Mae Ramat', N'51');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'670', N'6305', N'ท่าสองยาง', N'Tha Song Yang', N'51');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'670', N'6305', N'ท่าสองยาง', N'Tha Song Yang', N'51');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'671', N'6306', N'แม่สอด', N'Mae Sot', N'51');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'671', N'6306', N'แม่สอด', N'Mae Sot', N'51');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'672', N'6307', N'พบพระ', N'Phop Phra', N'51');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'672', N'6307', N'พบพระ', N'Phop Phra', N'51');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'673', N'6308', N'อุ้มผาง', N'Um Phang', N'51');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'673', N'6308', N'อุ้มผาง', N'Um Phang', N'51');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'674', N'6309', N'วังเจ้า', N'Wang Chao', N'51');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'674', N'6309', N'วังเจ้า', N'Wang Chao', N'51');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'675', N'6401', N'เมืองสุโขทัย', N'Mueang Sukhothai', N'52');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'675', N'6401', N'เมืองสุโขทัย', N'Mueang Sukhothai', N'52');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'676', N'6402', N'บ้านด่านลานหอย', N'Ban Dan Lan Hoi', N'52');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'676', N'6402', N'บ้านด่านลานหอย', N'Ban Dan Lan Hoi', N'52');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'677', N'6403', N'คีรีมาศ', N'Khiri Mat', N'52');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'677', N'6403', N'คีรีมาศ', N'Khiri Mat', N'52');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'678', N'6404', N'กงไกรลาศ', N'Kong Krailat', N'52');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'678', N'6404', N'กงไกรลาศ', N'Kong Krailat', N'52');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'679', N'6405', N'ศรีสัชนาลัย', N'Si Satchanalai', N'52');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'679', N'6405', N'ศรีสัชนาลัย', N'Si Satchanalai', N'52');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'680', N'6406', N'ศรีสำโรง', N'Si Samrong', N'52');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'680', N'6406', N'ศรีสำโรง', N'Si Samrong', N'52');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'681', N'6407', N'สวรรคโลก', N'Sawankhalok', N'52');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'681', N'6407', N'สวรรคโลก', N'Sawankhalok', N'52');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'682', N'6408', N'ศรีนคร', N'Si Nakhon', N'52');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'682', N'6408', N'ศรีนคร', N'Si Nakhon', N'52');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'683', N'6409', N'ทุ่งเสลี่ยม', N'Thung Saliam', N'52');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'683', N'6409', N'ทุ่งเสลี่ยม', N'Thung Saliam', N'52');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'684', N'6501', N'เมืองพิษณุโลก', N'Mueang Phitsanulok', N'53');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'684', N'6501', N'เมืองพิษณุโลก', N'Mueang Phitsanulok', N'53');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'685', N'6502', N'นครไทย', N'Nakhon Thai', N'53');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'685', N'6502', N'นครไทย', N'Nakhon Thai', N'53');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'686', N'6503', N'ชาติตระการ', N'Chat Trakan', N'53');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'686', N'6503', N'ชาติตระการ', N'Chat Trakan', N'53');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'687', N'6504', N'บางระกำ', N'Bang Rakam', N'53');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'687', N'6504', N'บางระกำ', N'Bang Rakam', N'53');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'688', N'6505', N'บางกระทุ่ม', N'Bang Krathum', N'53');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'688', N'6505', N'บางกระทุ่ม', N'Bang Krathum', N'53');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'689', N'6506', N'พรหมพิราม', N'Phrom Phiram', N'53');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'689', N'6506', N'พรหมพิราม', N'Phrom Phiram', N'53');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'690', N'6507', N'วัดโบสถ์', N'Wat Bot', N'53');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'690', N'6507', N'วัดโบสถ์', N'Wat Bot', N'53');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'691', N'6508', N'วังทอง', N'Wang Thong', N'53');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'691', N'6508', N'วังทอง', N'Wang Thong', N'53');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'692', N'6509', N'เนินมะปราง', N'Noen Maprang', N'53');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'692', N'6509', N'เนินมะปราง', N'Noen Maprang', N'53');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'693', N'6601', N'เมืองพิจิตร', N'Mueang Phichit', N'54');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'693', N'6601', N'เมืองพิจิตร', N'Mueang Phichit', N'54');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'694', N'6602', N'วังทรายพูน', N'Wang Sai Phun', N'54');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'694', N'6602', N'วังทรายพูน', N'Wang Sai Phun', N'54');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'695', N'6603', N'โพธิ์ประทับช้าง', N'Pho Prathap Chang', N'54');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'695', N'6603', N'โพธิ์ประทับช้าง', N'Pho Prathap Chang', N'54');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'696', N'6604', N'ตะพานหิน', N'Taphan Hin', N'54');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'696', N'6604', N'ตะพานหิน', N'Taphan Hin', N'54');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'697', N'6605', N'บางมูลนาก', N'Bang Mun Nak', N'54');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'697', N'6605', N'บางมูลนาก', N'Bang Mun Nak', N'54');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'698', N'6606', N'โพทะเล', N'Pho Thale', N'54');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'698', N'6606', N'โพทะเล', N'Pho Thale', N'54');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'699', N'6607', N'สามง่าม', N'Sam Ngam', N'54');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'699', N'6607', N'สามง่าม', N'Sam Ngam', N'54');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'700', N'6608', N'ทับคล้อ', N'Tap Khlo', N'54');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'700', N'6608', N'ทับคล้อ', N'Tap Khlo', N'54');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'701', N'6609', N'สากเหล็ก', N'Sak Lek', N'54');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'701', N'6609', N'สากเหล็ก', N'Sak Lek', N'54');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'702', N'6610', N'บึงนาราง', N'Bueng Na Rang', N'54');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'702', N'6610', N'บึงนาราง', N'Bueng Na Rang', N'54');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'703', N'6611', N'ดงเจริญ', N'Dong Charoen', N'54');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'703', N'6611', N'ดงเจริญ', N'Dong Charoen', N'54');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'704', N'6612', N'วชิรบารมี', N'Wachirabarami', N'54');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'704', N'6612', N'วชิรบารมี', N'Wachirabarami', N'54');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'705', N'6701', N'เมืองเพชรบูรณ์', N'Mueang Phetchabun', N'55');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'705', N'6701', N'เมืองเพชรบูรณ์', N'Mueang Phetchabun', N'55');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'706', N'6702', N'ชนแดน', N'Chon Daen', N'55');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'706', N'6702', N'ชนแดน', N'Chon Daen', N'55');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'707', N'6703', N'หล่มสัก', N'Lom Sak', N'55');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'707', N'6703', N'หล่มสัก', N'Lom Sak', N'55');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'708', N'6704', N'หล่มเก่า', N'Lom Kao', N'55');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'708', N'6704', N'หล่มเก่า', N'Lom Kao', N'55');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'709', N'6705', N'วิเชียรบุรี', N'Wichian Buri', N'55');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'709', N'6705', N'วิเชียรบุรี', N'Wichian Buri', N'55');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'710', N'6706', N'ศรีเทพ', N'Si Thep', N'55');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'710', N'6706', N'ศรีเทพ', N'Si Thep', N'55');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'711', N'6707', N'หนองไผ่', N'Nong Phai', N'55');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'711', N'6707', N'หนองไผ่', N'Nong Phai', N'55');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'712', N'6708', N'บึงสามพัน', N'Bueng Sam Phan', N'55');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'712', N'6708', N'บึงสามพัน', N'Bueng Sam Phan', N'55');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'713', N'6709', N'น้ำหนาว', N'Nam Nao', N'55');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'713', N'6709', N'น้ำหนาว', N'Nam Nao', N'55');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'714', N'6710', N'วังโป่ง', N'Wang Pong', N'55');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'714', N'6710', N'วังโป่ง', N'Wang Pong', N'55');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'715', N'6711', N'เขาค้อ', N'Khao kho', N'55');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'715', N'6711', N'เขาค้อ', N'Khao kho', N'55');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'716', N'7001', N'เมืองราชบุรี', N'Mueang Ratchaburi', N'56');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'716', N'7001', N'เมืองราชบุรี', N'Mueang Ratchaburi', N'56');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'717', N'7002', N'จอมบึง', N'Chom Bueng', N'56');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'717', N'7002', N'จอมบึง', N'Chom Bueng', N'56');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'718', N'7003', N'สวนผึ้ง', N'Suan Phueng', N'56');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'718', N'7003', N'สวนผึ้ง', N'Suan Phueng', N'56');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'719', N'7004', N'ดำเนินสะดวก', N'Damnoen Saduak', N'56');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'719', N'7004', N'ดำเนินสะดวก', N'Damnoen Saduak', N'56');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'720', N'7005', N'บ้านโป่ง', N'Ban Pong', N'56');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'720', N'7005', N'บ้านโป่ง', N'Ban Pong', N'56');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'721', N'7006', N'บางแพ', N'Bang Phae', N'56');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'721', N'7006', N'บางแพ', N'Bang Phae', N'56');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'722', N'7007', N'โพธาราม', N'Photharam', N'56');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'722', N'7007', N'โพธาราม', N'Photharam', N'56');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'723', N'7008', N'ปากท่อ', N'Pak Tho', N'56');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'723', N'7008', N'ปากท่อ', N'Pak Tho', N'56');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'724', N'7009', N'วัดเพลง', N'Wat Phleng', N'56');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'724', N'7009', N'วัดเพลง', N'Wat Phleng', N'56');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'725', N'7010', N'บ้านคา', N'Ban Kha', N'56');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'725', N'7010', N'บ้านคา', N'Ban Kha', N'56');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'726', N'7101', N'เมืองกาญจนบุรี', N'Mueang Kanchanaburi', N'57');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'726', N'7101', N'เมืองกาญจนบุรี', N'Mueang Kanchanaburi', N'57');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'727', N'7102', N'ไทรโยค', N'Sai Yok', N'57');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'727', N'7102', N'ไทรโยค', N'Sai Yok', N'57');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'728', N'7103', N'บ่อพลอย', N'Bo Phloi', N'57');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'728', N'7103', N'บ่อพลอย', N'Bo Phloi', N'57');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'729', N'7104', N'ศรีสวัสดิ์', N'Si Sawat', N'57');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'729', N'7104', N'ศรีสวัสดิ์', N'Si Sawat', N'57');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'730', N'7105', N'ท่ามะกา', N'Tha Maka', N'57');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'730', N'7105', N'ท่ามะกา', N'Tha Maka', N'57');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'731', N'7106', N'ท่าม่วง', N'Tha Muang', N'57');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'731', N'7106', N'ท่าม่วง', N'Tha Muang', N'57');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'732', N'7107', N'ทองผาภูมิ', N'Thong Pha Phum', N'57');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'732', N'7107', N'ทองผาภูมิ', N'Thong Pha Phum', N'57');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'733', N'7108', N'สังขละบุรี', N'Sangkhla Buri', N'57');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'733', N'7108', N'สังขละบุรี', N'Sangkhla Buri', N'57');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'734', N'7109', N'พนมทวน', N'Phanom Thuan', N'57');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'734', N'7109', N'พนมทวน', N'Phanom Thuan', N'57');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'735', N'7110', N'เลาขวัญ', N'Lao Khwan', N'57');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'735', N'7110', N'เลาขวัญ', N'Lao Khwan', N'57');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'736', N'7111', N'ด่านมะขามเตี้ย', N'Dan Makham Tia', N'57');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'736', N'7111', N'ด่านมะขามเตี้ย', N'Dan Makham Tia', N'57');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'737', N'7112', N'หนองปรือ', N'Nong Prue', N'57');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'737', N'7112', N'หนองปรือ', N'Nong Prue', N'57');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'738', N'7113', N'ห้วยกระเจา', N'Huai Krachao', N'57');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'738', N'7113', N'ห้วยกระเจา', N'Huai Krachao', N'57');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'739', N'7201', N'เมืองสุพรรณบุรี', N'Mueang Saphan Buri', N'58');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'739', N'7201', N'เมืองสุพรรณบุรี', N'Mueang Saphan Buri', N'58');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'740', N'7202', N'เดิมบางนางบวช', N'Doem Bang Nang Buat', N'58');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'740', N'7202', N'เดิมบางนางบวช', N'Doem Bang Nang Buat', N'58');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'741', N'7203', N'ด่านช้าง', N'Dan Chang', N'58');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'741', N'7203', N'ด่านช้าง', N'Dan Chang', N'58');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'742', N'7204', N'บางปลาม้า', N'Bang Pla Ma', N'58');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'742', N'7204', N'บางปลาม้า', N'Bang Pla Ma', N'58');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'743', N'7205', N'ศรีประจันต์', N'Si Prachan', N'58');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'743', N'7205', N'ศรีประจันต์', N'Si Prachan', N'58');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'744', N'7206', N'ดอนเจดีย์', N'Don Chedi', N'58');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'744', N'7206', N'ดอนเจดีย์', N'Don Chedi', N'58');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'745', N'7207', N'สองพี่น้อง', N'Song Phi Nong', N'58');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'745', N'7207', N'สองพี่น้อง', N'Song Phi Nong', N'58');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'746', N'7208', N'สามชุก', N'Sam Chuk', N'58');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'746', N'7208', N'สามชุก', N'Sam Chuk', N'58');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'747', N'7209', N'อู่ทอง', N'U Thong', N'58');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'747', N'7209', N'อู่ทอง', N'U Thong', N'58');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'748', N'7210', N'หนองหญ้าไซ', N'Nong Ya Sai', N'58');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'748', N'7210', N'หนองหญ้าไซ', N'Nong Ya Sai', N'58');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'749', N'7301', N'เมืองนครปฐม', N'mueang Nakhon Pathom', N'59');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'749', N'7301', N'เมืองนครปฐม', N'mueang Nakhon Pathom', N'59');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'750', N'7302', N'กำแพงแสน', N'Kamphaeng Saen', N'59');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'750', N'7302', N'กำแพงแสน', N'Kamphaeng Saen', N'59');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'751', N'7303', N'นครชัยศรี', N'Nakhon Chai Si', N'59');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'751', N'7303', N'นครชัยศรี', N'Nakhon Chai Si', N'59');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'752', N'7304', N'ดอนตูม', N'Don Tum', N'59');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'752', N'7304', N'ดอนตูม', N'Don Tum', N'59');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'753', N'7305', N'บางเลน', N'Bang Len', N'59');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'753', N'7305', N'บางเลน', N'Bang Len', N'59');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'754', N'7306', N'สามพราน', N'Sam Phran', N'59');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'754', N'7306', N'สามพราน', N'Sam Phran', N'59');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'755', N'7307', N'พุทธมณฑล', N'Phutthamonthon', N'59');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'755', N'7307', N'พุทธมณฑล', N'Phutthamonthon', N'59');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'756', N'7401', N'เมืองสมุทรสาคร', N'Mueang Samut Sakhon', N'60');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'756', N'7401', N'เมืองสมุทรสาคร', N'Mueang Samut Sakhon', N'60');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'757', N'7402', N'กระทุ่มแบน', N'Krathum Baen', N'60');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'757', N'7402', N'กระทุ่มแบน', N'Krathum Baen', N'60');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'758', N'7403', N'บ้านแพ้ว', N'Ban Phaeo', N'60');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'758', N'7403', N'บ้านแพ้ว', N'Ban Phaeo', N'60');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'759', N'7501', N'เมืองสมุทรสงคราม', N'Mueang Samut Songkhram', N'61');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'759', N'7501', N'เมืองสมุทรสงคราม', N'Mueang Samut Songkhram', N'61');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'760', N'7502', N'บางคนที', N'Bang Khonthi', N'61');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'760', N'7502', N'บางคนที', N'Bang Khonthi', N'61');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'761', N'7503', N'อัมพวา', N'Amphawa', N'61');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'761', N'7503', N'อัมพวา', N'Amphawa', N'61');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'762', N'7601', N'เมืองเพชรบุรี', N'Mueang Phetchaburi', N'62');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'762', N'7601', N'เมืองเพชรบุรี', N'Mueang Phetchaburi', N'62');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'763', N'7602', N'เขาย้อย', N'Khao Yoi', N'62');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'763', N'7602', N'เขาย้อย', N'Khao Yoi', N'62');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'764', N'7603', N'หนองหญ้าปล้อง', N'Nong Ya Plong', N'62');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'764', N'7603', N'หนองหญ้าปล้อง', N'Nong Ya Plong', N'62');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'765', N'7604', N'ชะอำ', N'Cha-am', N'62');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'765', N'7604', N'ชะอำ', N'Cha-am', N'62');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'766', N'7605', N'ท่ายาง', N'Tha Yang', N'62');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'766', N'7605', N'ท่ายาง', N'Tha Yang', N'62');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'767', N'7606', N'บ้านลาด', N'Ban Lat', N'62');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'767', N'7606', N'บ้านลาด', N'Ban Lat', N'62');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'768', N'7607', N'บ้านแหลม', N'Ban Laem', N'62');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'768', N'7607', N'บ้านแหลม', N'Ban Laem', N'62');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'769', N'7608', N'แก่งกระจาน', N'Kaeng Krachan', N'62');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'769', N'7608', N'แก่งกระจาน', N'Kaeng Krachan', N'62');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'770', N'7701', N'เมืองประจวบคีรีขันธ์', N'Mueang Prachuap Khiri Khan', N'63');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'770', N'7701', N'เมืองประจวบคีรีขันธ์', N'Mueang Prachuap Khiri Khan', N'63');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'771', N'7702', N'กุยบุรี', N'Kui Buri', N'63');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'771', N'7702', N'กุยบุรี', N'Kui Buri', N'63');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'772', N'7703', N'ทับสะแก', N'Thap Sakae', N'63');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'772', N'7703', N'ทับสะแก', N'Thap Sakae', N'63');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'773', N'7704', N'บางสะพาน', N'Bang Saphan', N'63');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'773', N'7704', N'บางสะพาน', N'Bang Saphan', N'63');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'774', N'7705', N'บางสะพานน้อย', N'Bang Saphan Noi', N'63');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'774', N'7705', N'บางสะพานน้อย', N'Bang Saphan Noi', N'63');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'775', N'7706', N'ปราณบุรี', N'Pran Buri', N'63');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'775', N'7706', N'ปราณบุรี', N'Pran Buri', N'63');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'776', N'7707', N'หัวหิน', N'Hua Hin', N'63');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'776', N'7707', N'หัวหิน', N'Hua Hin', N'63');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'777', N'7708', N'สามร้อยยอด', N'Sam Roi Yot', N'63');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'777', N'7708', N'สามร้อยยอด', N'Sam Roi Yot', N'63');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'778', N'8001', N'เมืองนครศรีธรรมราช', N'Mueang Nakhon Si Thammarat', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'778', N'8001', N'เมืองนครศรีธรรมราช', N'Mueang Nakhon Si Thammarat', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'779', N'8002', N'พรหมคีรี', N'Phrom Khiri', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'779', N'8002', N'พรหมคีรี', N'Phrom Khiri', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'780', N'8003', N'ลานสกา', N'Lan Saka', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'780', N'8003', N'ลานสกา', N'Lan Saka', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'781', N'8004', N'ฉวาง', N'Chawang', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'781', N'8004', N'ฉวาง', N'Chawang', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'782', N'8005', N'พิปูน', N'Phipun', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'782', N'8005', N'พิปูน', N'Phipun', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'783', N'8006', N'เชียรใหญ่', N'Chian Yai', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'783', N'8006', N'เชียรใหญ่', N'Chian Yai', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'784', N'8007', N'ชะอวด', N'Cha-uat', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'784', N'8007', N'ชะอวด', N'Cha-uat', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'785', N'8008', N'ท่าศาลา', N'Tha Sala', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'785', N'8008', N'ท่าศาลา', N'Tha Sala', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'786', N'8009', N'ทุ่งสง', N'Thung Song', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'786', N'8009', N'ทุ่งสง', N'Thung Song', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'787', N'8010', N'นาบอน', N'Na Bon', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'787', N'8010', N'นาบอน', N'Na Bon', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'788', N'8011', N'ทุ่งใหญ่', N'Thung Yai', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'788', N'8011', N'ทุ่งใหญ่', N'Thung Yai', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'789', N'8012', N'ปากพนัง', N'Pak Phanang', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'789', N'8012', N'ปากพนัง', N'Pak Phanang', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'790', N'8013', N'ร่อนพิบูลย์', N'Ron Phibun', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'790', N'8013', N'ร่อนพิบูลย์', N'Ron Phibun', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'791', N'8014', N'สิชล', N'Sichon', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'791', N'8014', N'สิชล', N'Sichon', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'792', N'8015', N'ขนอม', N'Khanom', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'792', N'8015', N'ขนอม', N'Khanom', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'793', N'8016', N'หัวไทร', N'Hua Sai', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'793', N'8016', N'หัวไทร', N'Hua Sai', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'794', N'8017', N'บางขัน', N'Bang Khan', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'794', N'8017', N'บางขัน', N'Bang Khan', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'795', N'8018', N'ถ้ำพรรณรา', N'Tham Phannara', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'795', N'8018', N'ถ้ำพรรณรา', N'Tham Phannara', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'796', N'8019', N'จุฬาภรณ์', N'Chulabhorn', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'796', N'8019', N'จุฬาภรณ์', N'Chulabhorn', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'797', N'8020', N'พระพรหม', N'Phra Phrom', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'797', N'8020', N'พระพรหม', N'Phra Phrom', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'798', N'8021', N'นบพิตำ', N'Nopphitam', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'798', N'8021', N'นบพิตำ', N'Nopphitam', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'799', N'8022', N'ช้างกลาง', N'Chang Klang', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'799', N'8022', N'ช้างกลาง', N'Chang Klang', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'800', N'8023', N'เฉลิมพระเกียรติ', N'Chaloem Phra Kiet', N'64');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'800', N'8023', N'เฉลิมพระเกียรติ', N'Chaloem Phra Kiet', N'64');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'801', N'8101', N'เมืองกระบี่', N'Mueang Krabi', N'65');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'801', N'8101', N'เมืองกระบี่', N'Mueang Krabi', N'65');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'802', N'8102', N'เขาพนม', N'Khao Phanom', N'65');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'802', N'8102', N'เขาพนม', N'Khao Phanom', N'65');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'803', N'8103', N'เกาะลันตา', N'Ko Lanta', N'65');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'803', N'8103', N'เกาะลันตา', N'Ko Lanta', N'65');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'804', N'8104', N'คลองท่อม', N'Khlong Thom', N'65');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'804', N'8104', N'คลองท่อม', N'Khlong Thom', N'65');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'805', N'8105', N'อ่าวลึก', N'Ao Luek', N'65');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'805', N'8105', N'อ่าวลึก', N'Ao Luek', N'65');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'806', N'8106', N'ปลายพระยา', N'Plai Phraya', N'65');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'806', N'8106', N'ปลายพระยา', N'Plai Phraya', N'65');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'807', N'8107', N'ลำทับ', N'Lam Thap', N'65');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'807', N'8107', N'ลำทับ', N'Lam Thap', N'65');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'808', N'8108', N'เหนือคลอง', N'Nuea Khlong', N'65');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'808', N'8108', N'เหนือคลอง', N'Nuea Khlong', N'65');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'809', N'8201', N'เมืองพังงา', N'Mueang Phang-nga', N'66');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'809', N'8201', N'เมืองพังงา', N'Mueang Phang-nga', N'66');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'810', N'8202', N'เกาะยาว', N'Ko Yao', N'66');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'810', N'8202', N'เกาะยาว', N'Ko Yao', N'66');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'811', N'8203', N'กะปง', N'Kapong', N'66');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'811', N'8203', N'กะปง', N'Kapong', N'66');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'812', N'8204', N'ตะกั่วทุ่ง', N'Takua Thung', N'66');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'812', N'8204', N'ตะกั่วทุ่ง', N'Takua Thung', N'66');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'813', N'8205', N'ตะกั่วป่า', N'Takua Pa', N'66');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'813', N'8205', N'ตะกั่วป่า', N'Takua Pa', N'66');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'814', N'8206', N'คุระบุรี', N'Khura Buri', N'66');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'814', N'8206', N'คุระบุรี', N'Khura Buri', N'66');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'815', N'8207', N'ทับปุด', N'Thap Put', N'66');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'815', N'8207', N'ทับปุด', N'Thap Put', N'66');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'816', N'8208', N'ท้ายเหมือง', N'Thai Mueang', N'66');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'816', N'8208', N'ท้ายเหมือง', N'Thai Mueang', N'66');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'817', N'8301', N'เมืองภูเก็ต', N'Mueang Phuket', N'67');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'817', N'8301', N'เมืองภูเก็ต', N'Mueang Phuket', N'67');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'818', N'8302', N'กะทู้', N'Kathu', N'67');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'818', N'8302', N'กะทู้', N'Kathu', N'67');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'819', N'8303', N'ถลาง', N'Thalang', N'67');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'819', N'8303', N'ถลาง', N'Thalang', N'67');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'820', N'8401', N'เมืองสุราษฎร์ธานี', N'Mueang Surat Thani', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'820', N'8401', N'เมืองสุราษฎร์ธานี', N'Mueang Surat Thani', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'821', N'8402', N'กาญจนดิษฐ์', N'Kanchanadit', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'821', N'8402', N'กาญจนดิษฐ์', N'Kanchanadit', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'822', N'8403', N'ดอนสัก', N'Don Sak', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'822', N'8403', N'ดอนสัก', N'Don Sak', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'823', N'8404', N'เกาะสมุย', N'Ko Samui', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'823', N'8404', N'เกาะสมุย', N'Ko Samui', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'824', N'8405', N'เกาะพะงัน', N'Ko Pha-ngan', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'824', N'8405', N'เกาะพะงัน', N'Ko Pha-ngan', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'825', N'8406', N'ไชยา', N'Chaiya', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'825', N'8406', N'ไชยา', N'Chaiya', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'826', N'8407', N'ท่าชนะ', N'Tha Chana', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'826', N'8407', N'ท่าชนะ', N'Tha Chana', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'827', N'8408', N'คีรีรัฐนิคม', N'Khiri Rat Nikhom', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'827', N'8408', N'คีรีรัฐนิคม', N'Khiri Rat Nikhom', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'828', N'8409', N'บ้านตาขุน', N'Ban Ta Khun', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'828', N'8409', N'บ้านตาขุน', N'Ban Ta Khun', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'829', N'8410', N'พนม', N'Phanom', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'829', N'8410', N'พนม', N'Phanom', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'830', N'8411', N'ท่าฉาง', N'Tha Chang', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'830', N'8411', N'ท่าฉาง', N'Tha Chang', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'831', N'8412', N'บ้านนาสาร', N'Ban Na San', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'831', N'8412', N'บ้านนาสาร', N'Ban Na San', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'832', N'8413', N'บ้านนาเดิม', N'Ban Na Doem', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'832', N'8413', N'บ้านนาเดิม', N'Ban Na Doem', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'833', N'8414', N'เคียนซา', N'Khian Sa', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'833', N'8414', N'เคียนซา', N'Khian Sa', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'834', N'8415', N'เวียงสระ', N'Wiang Sa', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'834', N'8415', N'เวียงสระ', N'Wiang Sa', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'835', N'8416', N'พระแสง', N'Phrasaeng', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'835', N'8416', N'พระแสง', N'Phrasaeng', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'836', N'8417', N'พุนพิน', N'Phunphin', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'836', N'8417', N'พุนพิน', N'Phunphin', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'837', N'8418', N'ชัยบุรี', N'Chai Buri', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'837', N'8418', N'ชัยบุรี', N'Chai Buri', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'838', N'8419', N'วิภาวดี', N'Chai Buri', N'68');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'838', N'8419', N'วิภาวดี', N'Chai Buri', N'68');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'839', N'8501', N'เมืองระนอง', N'Mueang Ranong', N'69');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'839', N'8501', N'เมืองระนอง', N'Mueang Ranong', N'69');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'840', N'8502', N'ละอุ่น', N'La-un', N'69');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'840', N'8502', N'ละอุ่น', N'La-un', N'69');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'841', N'8503', N'กะเปอร์', N'Papoe', N'69');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'841', N'8503', N'กะเปอร์', N'Papoe', N'69');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'842', N'8504', N'กระบุรี', N'Kra Buri', N'69');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'842', N'8504', N'กระบุรี', N'Kra Buri', N'69');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'843', N'8505', N'สุขสำราญ', N'Suk Samran', N'69');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'843', N'8505', N'สุขสำราญ', N'Suk Samran', N'69');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'844', N'8601', N'เมืองชุมพร', N'Mueang Chumphon', N'70');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'844', N'8601', N'เมืองชุมพร', N'Mueang Chumphon', N'70');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'845', N'8602', N'ท่าแซะ', N'Tha Sae', N'70');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'845', N'8602', N'ท่าแซะ', N'Tha Sae', N'70');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'846', N'8603', N'ปะทิว', N'Pathio', N'70');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'846', N'8603', N'ปะทิว', N'Pathio', N'70');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'847', N'8604', N'หลังสวน', N'Lang Suan', N'70');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'847', N'8604', N'หลังสวน', N'Lang Suan', N'70');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'848', N'8605', N'ละแม', N'Lamae', N'70');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'848', N'8605', N'ละแม', N'Lamae', N'70');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'849', N'8606', N'พะโต๊ะ', N'Phato', N'70');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'849', N'8606', N'พะโต๊ะ', N'Phato', N'70');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'850', N'8607', N'สวี', N'Sawi', N'70');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'850', N'8607', N'สวี', N'Sawi', N'70');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'851', N'8608', N'ทุ่งตะโก', N'Thung Tako', N'70');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'851', N'8608', N'ทุ่งตะโก', N'Thung Tako', N'70');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'852', N'9001', N'เมืองสงขลา', N'Muaeng Songkhla', N'71');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'852', N'9001', N'เมืองสงขลา', N'Muaeng Songkhla', N'71');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'853', N'9002', N'สทิงพระ', N'Sathing Phra', N'71');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'853', N'9002', N'สทิงพระ', N'Sathing Phra', N'71');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'854', N'9003', N'จะนะ', N'Chana', N'71');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'854', N'9003', N'จะนะ', N'Chana', N'71');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'855', N'9004', N'นาทวี', N'Na Thawi', N'71');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'855', N'9004', N'นาทวี', N'Na Thawi', N'71');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'856', N'9005', N'เทพา', N'Thepha', N'71');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'856', N'9005', N'เทพา', N'Thepha', N'71');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'857', N'9006', N'สะบ้าย้อย', N'Saba Yoi', N'71');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'857', N'9006', N'สะบ้าย้อย', N'Saba Yoi', N'71');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'858', N'9007', N'ระโนด', N'Ranot', N'71');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'858', N'9007', N'ระโนด', N'Ranot', N'71');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'859', N'9008', N'กระแสสินธุ์', N'Krasae Sin', N'71');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'859', N'9008', N'กระแสสินธุ์', N'Krasae Sin', N'71');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'860', N'9009', N'รัตภูมิ', N'Rattaphum', N'71');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'860', N'9009', N'รัตภูมิ', N'Rattaphum', N'71');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'861', N'9010', N'สะเดา', N'Sadao', N'71');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'861', N'9010', N'สะเดา', N'Sadao', N'71');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'862', N'9011', N'หาดใหญ่', N'Hat Yai', N'71');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'862', N'9011', N'หาดใหญ่', N'Hat Yai', N'71');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'863', N'9012', N'นาหม่อม', N'Na Mom', N'71');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'863', N'9012', N'นาหม่อม', N'Na Mom', N'71');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'864', N'9013', N'ควนเนียง', N'Khuan Niang', N'71');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'864', N'9013', N'ควนเนียง', N'Khuan Niang', N'71');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'865', N'9014', N'บางกล่ำ', N'Bang Klam', N'71');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'865', N'9014', N'บางกล่ำ', N'Bang Klam', N'71');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'866', N'9015', N'สิงหนคร', N'Singhanakhon', N'71');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'866', N'9015', N'สิงหนคร', N'Singhanakhon', N'71');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'867', N'9016', N'คลองหอยโข่ง', N'Khlong Hoi Khong', N'71');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'867', N'9016', N'คลองหอยโข่ง', N'Khlong Hoi Khong', N'71');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'868', N'9101', N'เมืองสตูล', N'Mueang Satun', N'72');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'868', N'9101', N'เมืองสตูล', N'Mueang Satun', N'72');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'869', N'9102', N'ควนโดน', N'Khuan Don', N'72');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'869', N'9102', N'ควนโดน', N'Khuan Don', N'72');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'870', N'9103', N'ควนกาหลง', N'Khuan Kalong', N'72');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'870', N'9103', N'ควนกาหลง', N'Khuan Kalong', N'72');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'871', N'9104', N'ท่าแพ', N'Tha Phae', N'72');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'871', N'9104', N'ท่าแพ', N'Tha Phae', N'72');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'872', N'9105', N'ละงู', N'La-ngu', N'72');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'872', N'9105', N'ละงู', N'La-ngu', N'72');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'873', N'9106', N'ทุ่งหว้า', N'Thung  Wa', N'72');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'873', N'9106', N'ทุ่งหว้า', N'Thung  Wa', N'72');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'874', N'9107', N'มะนัง', N'Manang', N'72');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'874', N'9107', N'มะนัง', N'Manang', N'72');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'875', N'9201', N'เมืองตรัง', N'Mueang Trang', N'73');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'875', N'9201', N'เมืองตรัง', N'Mueang Trang', N'73');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'876', N'9202', N'กันตัง', N'Kantang', N'73');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'876', N'9202', N'กันตัง', N'Kantang', N'73');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'877', N'9203', N'ย่านตาขาว', N'Yan Ta Khao', N'73');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'877', N'9203', N'ย่านตาขาว', N'Yan Ta Khao', N'73');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'878', N'9204', N'ปะเหลียน', N'Palian', N'73');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'878', N'9204', N'ปะเหลียน', N'Palian', N'73');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'879', N'9205', N'สิเกา', N'Sikao', N'73');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'879', N'9205', N'สิเกา', N'Sikao', N'73');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'880', N'9206', N'ห้วยยอด', N'Huai Yot', N'73');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'880', N'9206', N'ห้วยยอด', N'Huai Yot', N'73');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'881', N'9207', N'วังวิเศษ', N'Wang Wiset', N'73');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'881', N'9207', N'วังวิเศษ', N'Wang Wiset', N'73');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'882', N'9208', N'นาโยง', N'Na Yong', N'73');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'882', N'9208', N'นาโยง', N'Na Yong', N'73');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'883', N'9209', N'รัษฎา', N'Ratsada', N'73');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'883', N'9209', N'รัษฎา', N'Ratsada', N'73');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'884', N'9210', N'หาดสำราญ', N'Hat Samran', N'73');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'884', N'9210', N'หาดสำราญ', N'Hat Samran', N'73');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'885', N'9301', N'เมืองพัทลุง', N'Mueang Phatthalung', N'74');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'885', N'9301', N'เมืองพัทลุง', N'Mueang Phatthalung', N'74');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'886', N'9302', N'กงหรา', N'Kong Ra', N'74');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'886', N'9302', N'กงหรา', N'Kong Ra', N'74');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'887', N'9303', N'เขาชัยสน', N'Khao Chaison', N'74');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'887', N'9303', N'เขาชัยสน', N'Khao Chaison', N'74');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'888', N'9304', N'ตะโหมด', N'Tamot', N'74');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'888', N'9304', N'ตะโหมด', N'Tamot', N'74');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'889', N'9305', N'ควนขนุน', N'Khuan Khanun', N'74');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'889', N'9305', N'ควนขนุน', N'Khuan Khanun', N'74');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'890', N'9306', N'ปากพะยูน', N'Pak Phayun', N'74');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'890', N'9306', N'ปากพะยูน', N'Pak Phayun', N'74');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'891', N'9307', N'ศรีบรรพต', N'Si Banphot', N'74');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'891', N'9307', N'ศรีบรรพต', N'Si Banphot', N'74');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'892', N'9308', N'ป่าบอน', N'Pa Bon', N'74');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'892', N'9308', N'ป่าบอน', N'Pa Bon', N'74');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'893', N'9309', N'บางแก้ว', N'Bang Kaeo', N'74');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'893', N'9309', N'บางแก้ว', N'Bang Kaeo', N'74');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'894', N'9310', N'ป่าพยอม', N'Pa Phayom', N'74');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'894', N'9310', N'ป่าพยอม', N'Pa Phayom', N'74');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'895', N'9311', N'ศรีนครินทร์', N'Srinagarindra', N'74');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'895', N'9311', N'ศรีนครินทร์', N'Srinagarindra', N'74');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'896', N'9401', N'เมืองปัตตานี', N'Mueang Pattani', N'75');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'896', N'9401', N'เมืองปัตตานี', N'Mueang Pattani', N'75');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'897', N'9402', N'โคกโพธิ์', N'Khok Pho', N'75');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'897', N'9402', N'โคกโพธิ์', N'Khok Pho', N'75');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'898', N'9403', N'หนองจิก', N'Nong Chik', N'75');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'898', N'9403', N'หนองจิก', N'Nong Chik', N'75');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'899', N'9404', N'ปะนาเระ', N'Panare', N'75');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'899', N'9404', N'ปะนาเระ', N'Panare', N'75');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'900', N'9405', N'มายอ', N'Mayo', N'75');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'900', N'9405', N'มายอ', N'Mayo', N'75');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'901', N'9406', N'ทุ่งยางแดง', N'Thung Yang Daeng', N'75');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'901', N'9406', N'ทุ่งยางแดง', N'Thung Yang Daeng', N'75');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'902', N'9407', N'สายบุรี', N'Sai Buri', N'75');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'902', N'9407', N'สายบุรี', N'Sai Buri', N'75');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'903', N'9408', N'ไม้แก่น', N'Mai Kaen', N'75');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'903', N'9408', N'ไม้แก่น', N'Mai Kaen', N'75');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'904', N'9409', N'ยะหริ่ง', N'Yaring', N'75');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'904', N'9409', N'ยะหริ่ง', N'Yaring', N'75');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'905', N'9410', N'ยะรัง', N'Yarang', N'75');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'905', N'9410', N'ยะรัง', N'Yarang', N'75');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'906', N'9411', N'กะพ้อ', N'Kapho', N'75');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'906', N'9411', N'กะพ้อ', N'Kapho', N'75');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'907', N'9412', N'แม่ลาน', N'Mae Lan', N'75');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'907', N'9412', N'แม่ลาน', N'Mae Lan', N'75');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'908', N'9501', N'เมืองยะลา', N'Mueang Yala', N'76');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'908', N'9501', N'เมืองยะลา', N'Mueang Yala', N'76');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'909', N'9502', N'เบตง', N'Betong', N'76');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'909', N'9502', N'เบตง', N'Betong', N'76');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'910', N'9503', N'บันนังสตา', N'Bannang Sata', N'76');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'910', N'9503', N'บันนังสตา', N'Bannang Sata', N'76');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'911', N'9504', N'ธารโต', N'Than To', N'76');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'911', N'9504', N'ธารโต', N'Than To', N'76');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'912', N'9505', N'ยะหา', N'Yaha', N'76');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'912', N'9505', N'ยะหา', N'Yaha', N'76');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'913', N'9506', N'รามัน', N'Raman', N'76');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'913', N'9506', N'รามัน', N'Raman', N'76');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'914', N'9507', N'กาบัง', N'Kabang', N'76');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'914', N'9507', N'กาบัง', N'Kabang', N'76');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'915', N'9508', N'กรงปีนัง', N'Krong Pinang', N'76');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'915', N'9508', N'กรงปีนัง', N'Krong Pinang', N'76');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'916', N'9601', N'เมืองนราธิวาส', N'Mueang Narathiwat', N'77');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'916', N'9601', N'เมืองนราธิวาส', N'Mueang Narathiwat', N'77');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'917', N'9602', N'ตากใบ', N'Tak Bai', N'77');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'917', N'9602', N'ตากใบ', N'Tak Bai', N'77');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'918', N'9603', N'บาเจาะ', N'Tak Bai', N'77');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'918', N'9603', N'บาเจาะ', N'Tak Bai', N'77');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'919', N'9604', N'ยี่งอ', N'Yi-ngo', N'77');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'919', N'9604', N'ยี่งอ', N'Yi-ngo', N'77');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'920', N'9605', N'ระแงะ', N'Ra-ngae', N'77');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'920', N'9605', N'ระแงะ', N'Ra-ngae', N'77');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'921', N'9606', N'รือเสาะ', N'Rueso', N'77');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'921', N'9606', N'รือเสาะ', N'Rueso', N'77');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'922', N'9607', N'ศรีสาคร', N'Si Sakhon', N'77');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'922', N'9607', N'ศรีสาคร', N'Si Sakhon', N'77');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'923', N'9608', N'แว้ง', N'Waeng', N'77');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'923', N'9608', N'แว้ง', N'Waeng', N'77');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'924', N'9609', N'สุคิริน', N'Sukhirin', N'77');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'924', N'9609', N'สุคิริน', N'Sukhirin', N'77');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'925', N'9610', N'สุไหงโก-ลก', N'Su-ngai Kolok', N'77');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'925', N'9610', N'สุไหงโก-ลก', N'Su-ngai Kolok', N'77');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'926', N'9611', N'สุไหงปาดี', N'Su-ngai Padi', N'77');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'926', N'9611', N'สุไหงปาดี', N'Su-ngai Padi', N'77');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'927', N'9612', N'จะแนะ', N'Chanae', N'77');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'927', N'9612', N'จะแนะ', N'Chanae', N'77');
 GO
-INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [ProvinceRecord_Id]) VALUES (N'928', N'9613', N'เจาะไอร้อง', N'Cho-airong', N'77');
+INSERT INTO [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] ([Id], [Code], [NameInThai], [NameInEnglish], [Province_Id]) VALUES (N'928', N'9613', N'เจาะไอร้อง', N'Cho-airong', N'77');
 GO
 SET IDENTITY_INSERT [dbo].[CodeSanook_AdministrativeDivision_DistrictRecord] OFF
 GO

@@ -17,6 +17,6 @@ namespace CodeSanook.AdministrativeDivision.Models
         [JsonProperty]
         public virtual string NameInEnglish { get; set; }
 
-        public virtual ProvinceRecord ProvinceRecord { get; set; }
+        public virtual ProvinceRecord Province { get; set; }
     }
 }
