@@ -1,4 +1,5 @@
 ﻿using Newtonsoft.Json;
+using System.Collections.Generic;
 
 namespace CodeSanook.AdministrativeDivision.Models
 {
@@ -17,6 +18,13 @@ namespace CodeSanook.AdministrativeDivision.Models
         [JsonProperty]
         public virtual string NameInEnglish { get; set; }
 
-        public virtual ProvinceRecord Province { get; set; }
+        public virtual ProvinceRecord ProvinceRecord { get; set; }
+
+        public virtual IList<SubdistrictRecord> SubdistrictRecords { get; set; }
+
+        public DistrictRecord()
+        {
+            this.SubdistrictRecords = new List<SubdistrictRecord>();
+        }
     }
 }

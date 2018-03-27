@@ -26,6 +26,6 @@ namespace CodeSanook.AdministrativeDivision.Models
         [JsonProperty]
         public virtual int ZipCode { get; set; }
 
-        public virtual DistrictRecord District { get; set; }
+        public virtual DistrictRecord DistrictRecord { get; set; }
     }
 }

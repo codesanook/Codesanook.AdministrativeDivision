@@ -28,33 +28,33 @@ namespace CodeSanook.AdministrativeDivision
 
         public int Create()
         {
-            SchemaBuilder.CreateTable(typeof(ProvinceRecord).Name, table =>
+            SchemaBuilder.CreateTable(nameof(ProvinceRecord), table =>
                 table
-                    .Column<int>("Id", column => column.PrimaryKey().Identity())
-                    .Column<int>("Code")
-                    .Column<string>("NameInThai")
-                    .Column<string>("NameInEnglish")
+                    .Column<int>(nameof(ProvinceRecord.Id), column => column.PrimaryKey().Identity())
+                    .Column<int>(nameof(ProvinceRecord.Code))
+                    .Column<string>(nameof(ProvinceRecord.NameInThai))
+                    .Column<string>(nameof(ProvinceRecord.NameInEnglish))
             );
 
-            SchemaBuilder.CreateTable(typeof(DistrictRecord).Name, table =>
+            SchemaBuilder.CreateTable(nameof(DistrictRecord), table =>
                 table
-                    .Column<int>("Id", column => column.PrimaryKey().Identity())
-                    .Column<int>("Code")
-                    .Column<string>("NameInThai")
-                    .Column<string>("NameInEnglish")
-                    .Column<int>("Province_Id")
+                    .Column<int>(nameof(DistrictRecord.Id), column => column.PrimaryKey().Identity())
+                    .Column<int>(nameof(DistrictRecord.Code))
+                    .Column<string>(nameof(DistrictRecord.NameInThai))
+                    .Column<string>(nameof(DistrictRecord.NameInEnglish))
+                    .Column<int>($"{nameof(ProvinceRecord)}_Id")
             );
 
-            SchemaBuilder.CreateTable(typeof(SubdistrictRecord).Name, table =>
+            SchemaBuilder.CreateTable(nameof(SubdistrictRecord), table =>
                 table
-                    .Column<int>("Id", column => column.PrimaryKey().Identity())
-                    .Column<int>("Code")
-                    .Column<string>("NameInThai")
-                    .Column<string>("NameInEnglish")
-                    .Column<decimal>("Latitude")
-                    .Column<decimal>("Longitude")
-                    .Column<int>("District_Id")
-                    .Column<int>("ZipCode")
+                    .Column<int>(nameof(SubdistrictRecord.Id), column => column.PrimaryKey().Identity())
+                    .Column<int>(nameof(SubdistrictRecord.Code))
+                    .Column<string>(nameof(SubdistrictRecord.NameInThai))
+                    .Column<string>(nameof(SubdistrictRecord.NameInEnglish))
+                    .Column<decimal>(nameof(SubdistrictRecord.Latitude))
+                    .Column<decimal>(nameof(SubdistrictRecord.Longitude))
+                    .Column<int>($"{nameof(DistrictRecord)}_Id")
+                    .Column<int>(nameof(SubdistrictRecord.ZipCode))
             );
 
             //TODO add indexes and foreign keys
@@ -63,6 +63,10 @@ namespace CodeSanook.AdministrativeDivision
 
         public int UpdateFrom1()
         {
+            // 77 provinces
+            // 928 districts
+            // 7,364 subdistricts
+
             //All script blocks must be end with GO statement.
             var scripts = GetAdminstrativeDivisionDataScript();
 
