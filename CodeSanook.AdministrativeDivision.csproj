@@ -149,7 +149,6 @@
     <Content Include="README.md" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="import-data-to-module.txt" />
     <None Include="packages.config" />
   </ItemGroup>
   <PropertyGroup>

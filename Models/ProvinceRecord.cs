@@ -18,11 +18,11 @@ namespace CodeSanook.AdministrativeDivision.Models
         [JsonProperty]
         public virtual string NameInEnglish { get; set; }
 
-        public virtual IList<DistrictRecord> DistrictRecords { get; set; }
+        public virtual IList<DistrictRecord> Districts { get; set; }
 
         public ProvinceRecord()
         {
-            DistrictRecords = new List<DistrictRecord>();
+            Districts = new List<DistrictRecord>();
         } 
     }
 }

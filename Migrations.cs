@@ -42,7 +42,7 @@ namespace CodeSanook.AdministrativeDivision
                     .Column<int>(nameof(DistrictRecord.Code))
                     .Column<string>(nameof(DistrictRecord.NameInThai))
                     .Column<string>(nameof(DistrictRecord.NameInEnglish))
-                    .Column<int>($"{nameof(ProvinceRecord)}_Id")
+                    .Column<int>("Province_Id")
             );
 
             SchemaBuilder.CreateTable(nameof(SubdistrictRecord), table =>
@@ -53,7 +53,7 @@ namespace CodeSanook.AdministrativeDivision
                     .Column<string>(nameof(SubdistrictRecord.NameInEnglish))
                     .Column<decimal>(nameof(SubdistrictRecord.Latitude))
                     .Column<decimal>(nameof(SubdistrictRecord.Longitude))
-                    .Column<int>($"{nameof(DistrictRecord)}_Id")
+                    .Column<int>("District_Id")
                     .Column<int>(nameof(SubdistrictRecord.ZipCode))
             );
 
