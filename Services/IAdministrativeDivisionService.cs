@@ -1,11 +1,11 @@
-﻿using CodeSanook.AdministrativeDivision.Models;
+﻿using Codesanook.AdministrativeDivision.Models;
 using Orchard;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace CodeSanook.AdministrativeDivision.Services
+namespace Codesanook.AdministrativeDivision.Services
 {
     public interface IAdministrativeDivisionService : IDependency
     {

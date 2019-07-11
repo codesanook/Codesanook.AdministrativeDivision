@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace CodeSanook.AdministrativeDivision.Models
+namespace Codesanook.AdministrativeDivision.Models
 {
     [JsonObject(MemberSerialization.OptIn)]
     public class SubdistrictRecord

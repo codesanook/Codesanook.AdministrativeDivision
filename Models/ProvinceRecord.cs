@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System.Collections.Generic;
 
-namespace CodeSanook.AdministrativeDivision.Models
+namespace Codesanook.AdministrativeDivision.Models
 {
     [JsonObject(MemberSerialization.OptIn)]
     public class ProvinceRecord

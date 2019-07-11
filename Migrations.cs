@@ -1,7 +1,7 @@
 using System;
 using System.Data;
 using Orchard.Data.Migration;
-using CodeSanook.AdministrativeDivision.Models;
+using Codesanook.AdministrativeDivision.Models;
 using Orchard.Data;
 using Flurl;
 using System.IO;
@@ -11,7 +11,7 @@ using System.Web.Hosting;
 using System.Reflection;
 using System.Text;
 
-namespace CodeSanook.AdministrativeDivision
+namespace Codesanook.AdministrativeDivision
 {
     public class Migrations : DataMigrationImpl
     {

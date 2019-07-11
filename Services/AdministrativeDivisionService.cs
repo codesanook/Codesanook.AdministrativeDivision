@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using CodeSanook.AdministrativeDivision.Models;
+using Codesanook.AdministrativeDivision.Models;
 using Orchard.Data;
 
-namespace CodeSanook.AdministrativeDivision.Services
+namespace Codesanook.AdministrativeDivision.Services
 {
     public class AdministrativeDivisionService : IAdministrativeDivisionService
     {
