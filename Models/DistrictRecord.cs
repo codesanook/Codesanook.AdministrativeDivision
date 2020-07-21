@@ -1,4 +1,4 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 using System.Collections.Generic;
 
 namespace Codesanook.AdministrativeDivision.Models
@@ -22,9 +22,6 @@ namespace Codesanook.AdministrativeDivision.Models
 
         public virtual IList<SubdistrictRecord> Subdistricts { get; set; }
 
-        public DistrictRecord()
-        {
-            this.Subdistricts = new List<SubdistrictRecord>();
-        }
+        public DistrictRecord() => Subdistricts = new List<SubdistrictRecord>();
     }
 }

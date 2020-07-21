@@ -123,7 +123,6 @@
   <ItemGroup>
     <Content Include="Contents\AdministrativeDivisionData.sql" />
     <Content Include="Web.config" />
-    <Content Include="Scripts\Web.config" />
     <Content Include="Module.txt" />
   </ItemGroup>
   <ItemGroup>
@@ -138,12 +137,7 @@
       <Private>false</Private>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="Styles\Web.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Views\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="README.md" />
   </ItemGroup>
